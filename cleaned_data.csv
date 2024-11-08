@@ -1,0 +1,307 @@
+STUDENT ID,SALUTATION,GENDER,NATIONALITY,LOCAL,DOB,HIGHEST QUALIFICATION,NAME OF QUALIFICATION AND INSTITUTION,DATE ATTAINED HIGHEST QUALIFICATION,DESIGNATION,INTAKE NO,COMMENCEMENT DATE,COMPLETION DATE,SPONSORED,REGISTRATION FEE,PAYMENT MODE,COURSE FEE,GPA,COURSE CODE,INDEX NUMBER,AGE,TIME FROM LAST QUALIFICATION,COURSE NAME
+2020/1101-013/001,Ms,0,Singaporean,1,1978-03-04,Certificate,"Certificate in Office Skills, ITE",2016-11-06,"Snr Associate, Client Services",13th,2020-01-06,2021-04-06,0,107,NETS,1712,3.0,1101,1,46,1156 days,Diploma in Business Administration
+2020/1101-013/002,Ms,0,Singaporean,1,1966-03-23,Certificate,"WSQ Higher Certificate in Human Resources, WPLN, Fundamentals Certificate in Early Childhood Care and Education",2018-02-06,Admin Officer,13th,2020-01-06,2021-04-06,0,107,NETS,1712,2.5,1101,2,58,699 days,Diploma in Business Administration
+2020/1101-013/003,Ms,0,Singaporean,1,1988-12-04,Certificate,"Nitec in Service Skills (Office), ITE",2016-11-06,Admin Assistant,13th,2020-01-06,2021-04-06,1,107,CC JPM,1712,2.0,1101,3,35,1156 days,Diploma in Business Administration
+2020/1101-014/004,Ms,0,Singaporean,1,1991-11-27,Degree,"Bachelor Science (Facilities & Events Management), SUSS",2017-06-10,HR Administrator,14th,2020-03-10,2021-06-09,0,107,NETS,1212,2.5,1101,4,32,1004 days,Diploma in Business Administration
+2020/1101-014/005,Ms,0,Singaporean,1,1985-04-23,Diploma,"Diploma in Procurement and Supply Management, SIPMM Academy",2016-08-10,Purchasing Executive,14th,2020-03-10,2021-06-09,0,107,NETS,1712,2.4,1101,5,39,1308 days,Diploma in Business Administration
+2020/1101-014/006,Ms,0,Malaysian (PR),0,1981-03-15,Certificate,"Certificate in Payroll Administration, SHRI Academy, SPM",2016-08-10,HR Executive,14th,2020-03-10,2021-06-09,1,107,GIRO,1604,1.8,1101,6,43,1308 days,Diploma in Business Administration
+2020/1101-014/008,Ms,0,Chinese,0,1994-01-21,Master,"Master of Public Administration, San Jose State University",2018-03-10,PR Executive,14th,2020-03-10,2021-06-09,0,107,Cr Card,1712,3.0,1101,8,30,731 days,Diploma in Business Administration
+2020/1101-015/009,Ms,0,Singaporean,1,1975-07-09,Degree,"Bachelor of Science in Business & Mgt Studies, University of Bradford",2017-12-06,HR Executive,15th,2020-07-06,2021-10-05,0,107,Giro,1712,2.5,1101,9,49,943 days,Diploma in Business Administration
+2020/1101-015/010,Ms,0,Singaporean,1,1977-06-09,Degree,"Bachelor of Business (Advertising), Queensland University of Technology",2018-10-06,-,15th,2020-07-06,2021-10-05,0,107,Giro,1712,2.2,1101,10,47,639 days,Diploma in Business Administration
+2020/1101-015/011,Ms,0,Singaporean,1,1991-12-05,Diploma,"Diploma in Environmental Science, Republic Polytechnic",2016-09-06,-,15th,2020-07-06,2021-10-05,0,107,Giro,1712,3.1,1101,11,32,1399 days,Diploma in Business Administration
+2020/1101-016/012,Ms,0,Singaporean,1,1983-07-19,Degree,"Bachelor of Arts in Accounting, University of Bedfordshire",2017-11-01,Accounts cum HR Executive,16th,2020-09-01,2021-11-30,0,107,Giro,1712,2.6,1101,12,41,1035 days,Diploma in Business Administration
+2020/1101-016/013,Ms,0,Singaporean,1,1989-10-02,Degree,"Bachelor of Science (Business Management), University of Birmingham",2019-08-01,-,16th,2020-09-01,2021-11-30,0,107,Giro,1712,4.0,1101,13,34,397 days,Diploma in Business Administration
+2020/1101-016/014,Ms,0,Singaporean,1,1996-03-05,Certificate,N level,2017-09-01,Admin & HR Executive,16th,2020-09-01,2021-11-30,1,107,Giro,1604,3.2,1101,14,28,1096 days,Diploma in Business Administration
+2020/1101-017/015,Ms,0,Singaporean,1,1994-08-27,Diploma,"Diploma in Events Management, Kaplan",2018-11-02,HR Assistant,17th,2020-11-02,2022-02-02,1,107,SMBC 278451,1604,3.0,1101,15,29,731 days,Diploma in Business Administration
+2020/1101-017/016,Ms,0,Singaporean,1,1980-01-27,Diploma,"Diploma in Hotel Management, SHATEC",2019-01-02,Rooms Division Manager,17th,2020-11-02,2022-02-02,0,107,Giro,1712,2.9,1101,16,44,670 days,Diploma in Business Administration
+2020/1101-017/017,Ms,0,Singaporean,1,1995-04-16,Diploma,"Diploma in Healthcare Administration, Republic Polytechnic",2018-04-02,"HR Associate, Southeast Asia",17th,2020-11-02,2022-02-02,1,107,Giro,1604,3.4,1101,17,29,945 days,Diploma in Business Administration
+2020/1101-017/018,Ms,0,Singaporean,1,1983-06-18,Certificate,N level,2018-01-02,-,17th,2020-11-02,2022-02-02,0,107,Giro,1712,3.3,1101,18,41,1035 days,Diploma in Business Administration
+2020/1101-017/019,Ms,0,Singaporean,1,1989-01-06,Degree,"Bachelor of Science in Business, UOL",2016-12-02,Administrative Executive,17th,2020-11-02,2022-02-02,1,107,Giro,1604,1.8,1101,19,35,1431 days,Diploma in Business Administration
+2019/1101-007/001,Ms,0,Malaysian,0,1981-09-13,Certificate,SPM,2018-01-08,Admin & HR Assistant,7th,2019-01-08,2020-04-07,0,107,GIRO,1712,3.2,1101,1,42,365 days,Diploma in Business Administration
+2019/1101-007/002,Ms,0,Singaporean,1,1979-07-26,Certificate,"Certificate in Office Skills, ITE",2016-06-08,Admin Assistant,7th,2019-01-08,2020-04-07,0,107,NETS,1712,3.1,1101,2,45,944 days,Diploma in Business Administration
+2019/1101-007/003,Ms,0,Indian,0,1990-02-01,Degree,"Bachelor of Business Administration, University of Rajasthan, India",2015-08-08,-,7th,2019-01-08,2020-04-07,0,107,NETS,1712,3.1,1101,3,34,1249 days,Diploma in Business Administration
+2019/1101-007/004,Ms,0,Netherlands,0,1976-04-20,Diploma,"Office Management Diploma, NCOI Rotterdam, The Netherlands",2018-02-08,HR Support / Office Manager,7th,2019-01-08,2020-04-07,0,107,NETS,1712,3.6,1101,4,48,334 days,Diploma in Business Administration
+2019/1101-007/005,Ms,0,Singaporean,1,1983-11-25,Diploma,"Diploma in Business Admininstration, LCCI Level 3, Private Secretary's Diploma, LCCI",2015-06-08,"Executive, Administration",7th,2019-01-08,2020-04-07,1,107,CITI 067168,1604,2.2,1101,5,40,1310 days,Diploma in Business Administration
+2019/1101-008/006,Ms,0,Malaysian (PR),0,1968-10-17,Certificate,"Lower Secondary Education, Malaysia",2015-05-07,Administrator,8th,2019-03-07,2020-06-06,0,107,MBB 000023,1212,1.8,1101,6,55,1400 days,Diploma in Business Administration
+2019/1101-008/007,Ms,0,Indian (PR),0,1979-10-22,Master,"Master in Computer Science, Osmania University, India",2015-06-07,-,8th,2019-03-07,2020-06-06,0,107,SCB 726231,1712,2.7,1101,7,44,1369 days,Diploma in Business Administration
+2019/1101-008/008,Ms,0,Singaporean,1,1980-06-29,Certificate,N' level,2015-07-07,Admin & Finance Executive,8th,2019-03-07,2020-06-06,1,107,GIRO,1604,1.7,1101,8,44,1339 days,Diploma in Business Administration
+2019/1101-008/009,Ms,0,Singaporean,1,1976-05-25,Certificate,O' level,2015-08-07,Admin Assistant,8th,2019-03-07,2020-06-06,0,107,NETS,1712,1.8,1101,9,48,1308 days,Diploma in Business Administration
+2019/1101-009/010,Ms,0,Singaporean,1,1983-11-30,Certificate,N Level,2018-05-07,Operation Executive,9th,2019-05-07,2020-08-06,1,107,OCBC 006258,1604,2.9,1101,10,40,365 days,Diploma in Business Administration
+2019/1101-009/011,Ms,0,Malaysian,0,1992-07-08,Certificate,SPM,2017-05-07,Clerk,9th,2019-05-07,2020-08-06,0,107,"Nets",1712,3.0,1101,11,32,730 days,Diploma in Business Administration
+2019/1101-010/012,Ms,0,Malaysian (PR),0,1988-11-02,Degree,"Bahcelor of Management (Marketing), Universiti Teknologi Malaysia",2018-08-09,HR & Admin,10th,2019-07-09,2020-10-08,1,107,Nets,1712,3.0,1101,12,35,334 days,Diploma in Business Administration
+2019/1101-010/013,Mr,1,Singaporean,1,1990-01-31,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",2015-11-09,Early Childhood Support Office,10th,2019-07-09,2020-10-08,0,107,Nets,1712,1.8,1101,13,34,1338 days,Diploma in Business Administration
+2019/1101-010/014,Ms,0,Singaporean,1,1973-04-20,Certificate,O' level,2016-02-09,Office Manager,10th,2019-07-09,2020-10-08,1,107,Giro,1712,1.9,1101,14,51,1246 days,Diploma in Business Administration
+2019/1101-010/015,Ms,0,Singaporean,1,1991-03-09,Certificate,O' level,2016-03-09,Business Development Executive,10th,2019-07-09,2020-10-08,0,107,Nets,1712,2.3,1101,15,33,1217 days,Diploma in Business Administration
+2019/1101-010/016,Ms,0,Singaporean,1,1990-06-17,Certificate,N Level,2018-01-09,Human Resource Assistant,10th,2019-07-09,2020-10-08,1,107,Giro,1604,3.7,1101,16,34,546 days,Diploma in Business Administration
+2019/1101-010/017,Ms,0,Singaporean,1,1990-01-04,Degree,"Bachelor of Arts in Business with Logistics and Supply Chain Management, University of Northumbria",2016-03-09,"Executive, Planning & Delivery",10th,2019-07-09,2020-10-08,0,107,Nets,1712,2.8,1101,17,34,1217 days,Diploma in Business Administration
+2019/1101-010/019,Ms,0,Malaysian,0,1986-09-10,Certificate,SPM,2016-08-09,Admin Assistant,10th,2019-07-09,2020-10-08,1,107,Nets,1712,3.1,1101,19,37,1064 days,Diploma in Business Administration
+2019/1101-010/020,Ms,0,Singaporean,1,1997-08-03,Diploma,"Diploma in Business, Temasek Polytechnic",2017-12-09,Secretary,10th,2019-07-09,2020-10-08,0,107,Nets,1712,2.2,1101,20,26,577 days,Diploma in Business Administration
+2019/1101-010/021,Ms,0,Singaporean,1,1970-08-02,Diploma,"Diploma in Business Administration, PSB Academy",2016-02-09,Executive Assistant,10th,2019-07-09,2020-10-08,0,107,Nets,1712,3.1,1101,21,53,1246 days,Diploma in Business Administration
+2019/1101-010/022,Ms,0,Singaporean,1,1973-03-08,Certificate,"Certificate in Office Skills, ITE",2017-01-09,Secretary,10th,2019-07-09,2020-10-08,0,107,Nets,1712,2.2,1101,22,51,911 days,Diploma in Business Administration
+2019/1101-010/023,Ms,0,Singaporean,1,1994-11-13,Diploma,"Advanced Diploma in Tourism, Hospitality and Event Management, MDIS",2016-01-09,Admin Assistant,10th,2019-07-09,2020-10-08,0,107,Nets,1712,3.1,1101,23,29,1277 days,Diploma in Business Administration
+2019/1101-010/024,Ms,0,Singaporean,1,1983-02-10,Diploma,"Diploma in Multimedia Software Engineering, Singapore Polytechnic",2015-09-09,Senior Assistant (Tenant Administration),10th,2019-07-09,2020-10-08,0,107,Nets,1712,1.7,1101,24,41,1399 days,Diploma in Business Administration
+2019/1101-011/025,Ms,0,Singaporean,1,1969-02-16,Certificate,"O' levels, Diploma in Business Management (distance learning), Glasgow, Dublin",2018-10-10,Admin Assistant,11th,2019-09-10,2020-12-09,1,107,OCBC 000385,1604,3.3,1101,25,55,335 days,Diploma in Business Administration
+2019/1101-011/026,Ms,0,Singaporean,1,1992-04-18,Certificate,"Sec 2, WPLN (Reading, Speaking, Listening, Writing) & Numeracy",2016-11-10,Admin Assistant,11th,2019-09-10,2020-12-09,0,107,Nets,1212,3.0,1101,26,32,1034 days,Diploma in Business Administration
+2019/1101-011/027,Ms,0,Malaysian (PR),1,1978-06-16,Certificate,"Certified Accounting Technicians (CATS), ACCA, SPM",2018-09-10,Senior HR Officer,11th,2019-09-10,2020-12-09,0,107,POSB 743523,1212,3.7,1101,27,46,365 days,Diploma in Business Administration
+2019/1101-011/028,Ms,0,Chinese (PR),1,1987-10-19,Diploma,"Diploma of Hospitality Management, Australian Academy of Hospitality Management",2016-12-10,HR Executive,11th,2019-09-10,2020-12-09,1,107,OCBC 484773,1604,3.0,1101,28,36,1004 days,Diploma in Business Administration
+2019/1101-011/029,Ms,0,Singaporean,1,1973-04-30,Certificate,"Certified Accounting Technicians (CATS), ACCA, 'O' levels",2016-09-10,-,11th,2019-09-10,2020-12-09,0,107,UOB 042724,1712,2.9,1101,29,51,1095 days,Diploma in Business Administration
+2019/1101-012/030,Mr,1,Singaporean,1,1977-06-12,Certificate,"NTC 2, N Level, WPLN",2016-02-05,Manager,12th,2019-11-05,2021-02-04,0,107,NETS,1712,2.1,1101,30,47,1369 days,Diploma in Business Administration
+2019/1101-012/031,Ms,0,Singaporean,1,1976-04-27,Certificate,"O' level, 'N' Level, WPLN",2016-08-05,-,12th,2019-11-05,2021-02-04,0,107,NETS,1712,3.1,1101,31,48,1187 days,Diploma in Business Administration
+2019/1101-012/032,Ms,0,Singaporean,1,1986-02-05,Diploma,"Diploma in Masss Communication, MDIS",2018-07-05,Relationship and Marketing Executive,12th,2019-11-05,2021-02-04,0,107,NETS,1712,3.5,1101,32,38,488 days,Diploma in Business Administration
+2019/1101-012/033,Ms,0,Singaporean,1,1980-01-03,Certificate,N level,2018-07-05,Secretary,12th,2019-11-05,2021-02-04,0,107,NETS,1712,3.0,1101,33,44,488 days,Diploma in Business Administration
+2020/2101-110/001,Ms,0,Singaporean,1,1993-12-02,Certificate,"Nitec in Hair Fashion & Design, ITE",2017-11-08,Administrative Assistant,110th,2020-06-08,2021-03-05,0,107,Giro,2996,3.4,2101,1,30,943 days,Certificate in HR Management
+2020/2101-110/002,Ms,0,Singaporean,1,1974-11-06,Certificate,"SPM, LCCI",2018-07-08,"Business Support Manager, APAC",110th,2020-06-08,2021-03-05,0,107,Giro,2996,3.4,2101,2,49,701 days,Certificate in HR Management
+2020/2101-111/003,Ms,0,Singaporean,1,1989-05-27,Diploma,"Diploma in Commerce (Biz Admin), Kaplan / Diploma in Biz Admin (Business, Travel & Tourism), Newcastle School of Management",2019-06-28,Team Assistant,111th,2020-09-28,2021-06-23,1,107,Giro,2696,3.0,2101,3,35,458 days,Certificate in HR Management
+2020/2101-111/004,Ms,0,Singaporean,1,1992-04-18,Certificate,"Foundation Certificate in HRM, SHRI Academy",2019-01-28,-,111th,2020-09-28,2021-06-23,0,0,NETS,2996,2.4,2101,4,32,609 days,Certificate in HR Management
+2020/2101-111/005,Ms,0,Singaporean,1,1992-09-22,Degree,"Bachelor of Business (Marketing), RMIT",2018-08-28,APAC HR Specialist,111th,2020-09-28,2021-06-23,1,107,Giro,2696,2.8,2101,5,31,762 days,Certificate in HR Management
+2020/2101-111/006,Ms,0,Singaporean,1,1988-10-18,Certificate,O' level,2018-03-28,Snr Client Service Executive,111th,2020-09-28,2021-06-23,0,107,Giro,1496,3.3,2101,6,35,915 days,Certificate in HR Management
+2020/2101-111/007,Ms,0,Singaporean,1,2001-12-11,Certificate,"Nitec in Electronics, Computer Networking & Communications, ITE",2019-06-28,HR Intern,111th,2020-09-28,2021-06-23,0,107,Giro,1996,3.3,2101,7,22,458 days,Certificate in HR Management
+2020/2101-111/008,Ms,0,Singaporean,1,1969-12-18,Certificate,"Basic Certificate in HRM, SHRI",2017-04-28,"Executive, Corporate Services",111th,2020-09-28,2021-06-23,0,107,Giro,1496,3.0,2101,8,54,1249 days,Certificate in HR Management
+2020/2101-111/009,Ms,0,Singaporean,1,1987-11-12,Certificate,O' level,2018-08-28,Admin Executive,111th,2020-09-28,2021-06-23,0,107,Giro,2496,3.3,2101,9,36,762 days,Certificate in HR Management
+2020/2101-112/010,Ms,0,Singaporean,1,1984-02-13,Degree,"Bachelor of Commerce (Management and Marketing), Curtin University of Technology",2017-05-16,Manager (Engagement),112th,2020-11-16,2021-08-13,0,107,Giro,1996,1.5,2101,10,40,1280 days,Certificate in HR Management
+2020/2101-112/011,Ms,0,Singaporean,1,1987-07-13,Degree,"Bachelor of Science in Business, SUSS",2017-01-16,Executive,112th,2020-11-16,2021-08-13,0,107,Giro,1996,2.5,2101,11,37,1400 days,Certificate in HR Management
+2020/2101-112/012,Ms,0,Singaporean,1,1994-07-15,Diploma,"Diploma in Integrated Events Management, Republic Polytechnic",2018-09-16,"Associate, HR & General Affairs",112th,2020-11-16,2021-08-13,0,107,Giro,1996,3.4,2101,12,30,792 days,Certificate in HR Management
+2019/2101-106/001,Ms,0,Malaysian (PR),0,1984-07-08,Degree,"Bachelor of Science (HRD), Universiti Teknologi Malaysia",2016-04-04,Manager,106th,2019-03-04,2019-12-03,0,107,NETS,2996,3.1,2101,1,40,1064 days,Certificate in HR Management
+2019/2101-106/002,Ms,0,Chinese (PR),0,1987-09-08,Certificate,"Certificate in Computer, Jiangsu Vocational Middle School, Certificate in Grammar & Writing Intermediate Level, Ascend Education Centre",2017-10-04,HR Assistant,106th,2019-03-04,2019-12-03,0,107,GIRO,2996,3.0,2101,2,36,516 days,Certificate in HR Management
+2019/2101-107/003,Ms,0,Singaporean,1,1981-06-19,Diploma,"Diploma in Mechatronic Engineering, Nee Ann Polytechnic",2016-12-24,HR Manager,107th,2019-04-24,2020-01-23,1,107,DBS 346889,2696,3.3,2101,3,43,851 days,Certificate in HR Management
+2019/2101-107/004,Ms,0,Singaporean,1,1999-09-28,Certificate,"Higher Nitec in Hospitality Operations, ITE",2017-09-24,Admin Executive,107th,2019-04-24,2020-01-23,0,107,NETS,2996,3.3,2101,4,24,577 days,Certificate in HR Management
+2019/2101-107/005,Ms,0,Singaporean,1,1967-10-19,Certificate,O' level,2015-07-24,"Senior Vice President, Gaming Division",63rd,2019-04-24,2020-01-23,0,0,NETS,2996,2.4,2101,5,56,1370 days,Certificate in HR Management
+2019/2101-107/006,Ms,0,Singaporean,1,1995-04-10,Certificate,"Higher Nitec in Business Studies (Service Management), ITE",2017-04-24,Admin Assistant,107th,2019-04-24,2020-01-23,1,107,UOB 480958,2696,2.4,2101,6,29,730 days,Certificate in HR Management
+2019/2101-107/007,Ms,0,Singaporean,1,1999-05-24,Certificate,O' levels,2018-04-24,-,107th,2019-04-24,2020-01-23,0,107,GIRO,2996,3.0,2101,7,25,365 days,Certificate in HR Management
+2019/2101-107/008,Ms,0,Singaporean,1,2001-04-12,Certificate,O' levels,2015-05-24,-,107th,2019-04-24,2020-01-23,0,107,NETS,2996,2.8,2101,8,23,1431 days,Certificate in HR Management
+2019/2101-107/009,Ms,0,Singaporean,1,1987-10-21,Certificate,"WSQ Higher Certificate in Human Resources, HCS",2016-03-24,-,107th,2019-04-24,2020-01-23,0,107,GIRO,2496,1.9,2101,9,36,1126 days,Certificate in HR Management
+2019/2101-108/010,Mr,1,Singaporean,1,1994-04-08,Certificate,"Nitec in Fitness Training, ITE",2015-09-05,HR Executive (TA Operations),108th,2019-08-05,2020-05-04,0,107,NETS,2996,3.0,2101,10,30,1430 days,Certificate in HR Management
+2019/2101-108/011,Ms,0,Malaysian,0,1986-02-18,Certificate,"SPM, Certificate in Business Studies (Business Administration) Level IV, Tunku Abdul Rahman College",2016-08-05,HR Executive,108th,2019-08-05,2020-05-04,1,107,UOB 000073,2996,3.1,2101,11,38,1095 days,Certificate in HR Management
+2019/2101-108/012,Ms,0,Singaporean,1,1979-11-09,Certificate,"SPM, LCCI Level 2 Certificate in Book-keeping and Accounts / LCCI Level 3 Business Statistics",2016-12-05,HR Executive,108th,2019-08-05,2020-05-04,0,107,UOB Cr Card - 12 months,2996,2.9,2101,12,44,973 days,Certificate in HR Management
+2019/2101-108/013,Ms,0,Singaporean,1,1994-12-24,Diploma,"Diploma in Financial Informatics, Nanyang Polytechnic, CPA, SHRI Academy",2018-03-05,HR Administrator,108th,2019-08-05,2020-05-04,1,107,GIRO,2696,3.9,2101,13,29,518 days,Certificate in HR Management
+2019/2101-108/014,Ms,0,Singaporean,1,1976-05-25,Certificate,"O' level, Foundation Certificate in Human Resource Management, SHRI Academy",2018-04-05,Admin Assistant,108th,2019-08-05,2020-05-04,0,0,Waived,2996,2.8,2101,14,48,487 days,Certificate in HR Management
+2019/2101-109/015,Mr,1,Singaporean,1,1998-04-23,Certificate,A level,2018-05-25,Admin Support Assistance,109th,2019-11-25,2019-09-28,0,107,OCBC 923215,2996,3.7,2101,15,26,549 days,Certificate in HR Management
+2019/2101-109/016,Ms,0,Filipino,0,1986-12-23,Degree,"Bachelor of Arts (Mass Communication), New Era University, Quezon City, Philippines",2018-06-25,HR Executive,109th,2019-11-25,2019-09-28,1,107,DBS 002211,2996,3.5,2101,16,37,518 days,Certificate in HR Management
+2019/2101-109/017,Ms,0,Malaysian,0,1992-12-09,Certificate,SPM,2018-10-25,HR Administrator,109th,2019-11-25,2019-09-28,0,107,Giro,2996,3.0,2101,17,31,396 days,Certificate in HR Management
+2019/2101-109/018,Mr,1,Singaporean,1,1998-10-10,Certificate,O' level,2017-10-25,Service Crew,109th,2019-11-25,2019-09-28,0,107,Nets,2996,2.7,2101,18,25,761 days,Certificate in HR Management
+2019/2101-109/019,Ms,0,Singaporean,1,1983-11-30,Certificate,"N Level, Foundation Certificate in HRM, SHRI Academy",2016-09-25,Sales & Operation Executive,109th,2019-11-25,2019-09-28,1,0,Waived,2696,2.4,2101,19,40,1156 days,Certificate in HR Management
+2019/2101-109/021,Ms,0,Singaporean,1,1987-07-14,Certificate,O level,2018-12-25,Business Development Executive,109th,2019-11-25,2019-09-28,0,107,Nets,2996,3.9,2101,21,37,335 days,Certificate in HR Management
+2019/2101-109/022,Ms,0,Singaporean,1,1978-11-30,Certificate,"Certificate in Office Skills, ITE",2018-05-25,Executive,109th,2019-11-25,2019-09-28,0,107,Giro,2996,3.0,2101,22,45,549 days,Certificate in HR Management
+2019/2101-109/023,Ms,0,Malaysian,0,1998-05-11,Certificate,SPM,2017-02-25,PR Officer,109th,2019-11-25,2019-09-28,0,107,Nets,2996,3.2,2101,23,26,1003 days,Certificate in HR Management
+2020/2102-068/001,Ms,0,Singaporean,1,1993-01-20,Degree,"Bachelor of Science (Business Management), UOL",2017-08-22,Executive,68th,2020-07-22,2020-09-21,0,107,Nets,1388,3.3,2102,1,31,1065 days,Certificate in Digital Marketing
+2020/2102-068/002,Ms,0,Singaporean,1,1976-04-11,Diploma,"Diploma in Business Administration (Accounting & Finance), PSB Academy",2019-01-22,"Snr Executive, Accounts",68th,2020-07-22,2020-09-21,0,107,Nets,1415,3.2,2102,2,48,547 days,Certificate in Digital Marketing
+2020/2102-068/003,Ms,0,Singaporean,1,1973-09-10,Diploma,LCCI Diploma in Accounting (Third Level),2019-03-22,Snr Accounts Officer,68th,2020-07-22,2020-09-21,0,107,Nets,1415,3.8,2102,3,50,488 days,Certificate in Digital Marketing
+2020/2102-068/004,Ms,0,Singaporean,1,1988-12-27,Diploma,"Diploma in Sales & Marketing, MIS",2017-04-22,"Executive, Student Care Services",68th,2020-07-22,2020-09-21,0,107,Nets,1415,2.0,2102,4,35,1187 days,Certificate in Digital Marketing
+2020/2102-068/005,Ms,0,Malaysian (PR),1,1992-11-11,Degree,"Bachelor of Engineering, Universiti Malaysia Perlis",2017-06-22,Device Engineer,68th,2020-07-22,2020-09-21,0,107,Nets,1388,2.9,2102,5,31,1126 days,Certificate in Digital Marketing
+2020/2102-068/006,Ms,0,Singaporean,1,1985-11-09,Certificate,"Certificate in Opticianry Practice, Republic Poly, WPLN",2017-04-22,-,68th,2020-07-22,2020-09-21,0,107,Nets,1388,1.8,2102,6,38,1187 days,Certificate in Digital Marketing
+2020/2102-068/007,Ms,0,Singaporean,1,1989-08-26,Certificate,O level,2017-07-22,-,68th,2020-07-22,2020-09-21,0,107,Nets,1388,2.8,2102,7,34,1096 days,Certificate in Digital Marketing
+2020/2102-068/008,Ms,0,Singaporean,1,1980-12-17,Degree,"Bachelor of Human Resource Management, SUSS",2018-10-22,HR Executive,68th,2020-07-22,2020-09-21,1,107,Nets,1495,3.2,2102,8,43,639 days,Certificate in Digital Marketing
+2020/2102-068/009,Ms,0,Malaysian (PR),1,1992-11-24,Degree,"Bachelor of Economics, University of Malaya",2019-06-22,HR Executive,68th,2020-07-22,2020-09-21,1,107,Nets,1388,2.8,2102,9,31,396 days,Certificate in Digital Marketing
+2020/2102-068/010,Mr,1,Singaporean,1,1990-02-26,Degree,"Bachelor of Science  in Chemical Engineering, Singapore Institute of Technology",2018-06-22,Operations Executive,68th,2020-07-22,2020-09-21,0,107,Nets,1388,3.1,2102,10,34,761 days,Certificate in Digital Marketing
+2020/2102-068/011,Ms,0,Chinese (PR),1,1991-07-16,Degree,"Bachelor of Science (Nursing), Curtin University of Technology &Bachelor of Business (HRM), Murdoch University",2019-02-22,Staff Nurse,68th,2020-07-22,2020-09-21,0,107,Nets,1388,3.8,2102,11,33,516 days,Certificate in Digital Marketing
+2020/2102-069/012,Mr,1,Singaporean,1,1969-10-15,Degree,"Bachelor of Accountancy, jointly offered by NUS/NTU",2017-09-30,Senior Manager,69th,2020-09-30,2020-11-20,1,107,Nets,1388,2.5,2102,12,54,1096 days,Certificate in Digital Marketing
+2020/2102-069/013,Ms,0,Singaporean,1,1994-07-07,Degree,"Bachelor of Science in Business Management, University of Birmingham",2016-11-30,Assistant Executive (Payroll),69th,2020-09-30,2020-11-20,0,107,Nets,1388,1.7,2102,13,30,1400 days,Certificate in Digital Marketing
+2020/2102-069/014,Ms,0,Singaporean,1,1968-10-17,Certificate,"FCHRM, SHRI Academy",2019-08-30,Administrator,69th,2020-09-30,2020-11-20,0,107,Nets,888,3.3,2102,14,55,397 days,Certificate in Digital Marketing
+2020/2102-069/015,Mr,1,Singaporean,1,1996-05-05,Diploma,"Diploma in Events Management, Kaplan",2018-10-30,-,69th,2020-09-30,2020-11-20,0,107,Nets,1495,3.4,2102,15,28,701 days,Certificate in Digital Marketing
+2020/2102-069/016,Mrs,0,Singaporean,1,1970-06-24,Diploma,"Diploma in Business, Marketing Institute of Singapore",2019-02-28,Admin Support Executive,69th,2020-09-30,2020-11-20,1,107,Giro,1388,2.6,2102,16,54,580 days,Certificate in Digital Marketing
+2020/2102-069/017,Ms,0,Malaysian (PR),1,1994-02-14,Degree,"Bachelor of Communications in Public Relations, Universiti Tunku Abdul Rahman",2018-03-30,Recruitment Consultant,69th,2020-09-30,2020-11-20,0,107,Nets,1388,2.3,2102,17,30,915 days,Certificate in Digital Marketing
+2020/2102-069/018,Ms,0,Malaysian (PR),1,1989-12-02,Certificate,SPM,2019-07-30,Payroll Specialist,69th,2020-09-30,2020-11-20,1,107,Nets,1308,3.1,2102,18,34,428 days,Certificate in Digital Marketing
+2020/2102-069/019,Ms,0,Singaporean,1,1984-12-05,Diploma,"Specialist Diploma in HRM, Nanyang Polytechnic",2017-02-28,-,69th,2020-09-30,2020-11-20,0,107,Nets,1495,2.8,2102,19,39,1310 days,Certificate in Digital Marketing
+2020/2102-069/020,Ms,0,Singaporean,1,1977-02-13,Diploma,"Graduate Diploma in Business Administration (Operations & Logistics Management), SIM",2017-10-30,-,69th,2020-09-30,2020-11-20,0,107,Nets,1495,3.0,2102,20,47,1066 days,Certificate in Digital Marketing
+2020/2102-069/021,Ms,0,Singaporean,1,1971-11-07,Graduate Diploma,"Graduate Diploma in HRM, SHRI",2017-02-28,HR Manager,69th,2020-09-30,2020-11-20,0,107,Nets,1415,1.9,2102,21,52,1310 days,Certificate in Digital Marketing
+2020/2102-069/022,Ms,0,Singaporean,1,1961-04-01,Certificate,"O level, Private Secretary Certificate, LCCI",2019-02-28,Secretary,69th,2020-09-30,2020-11-20,1,107,Nets,1388,2.6,2102,22,63,580 days,Certificate in Digital Marketing
+2020/2102-070/023,Ms,0,Malaysian,0,2000-12-05,Certificate,SPM,2017-10-23,Admin Asst,70th,2020-11-23,2020-01-22,1,107,Nets,1388,3.1,2102,23,23,1127 days,Certificate in Digital Marketing
+2020/2102-070/024,Ms,0,Singaporean,1,1977-08-27,Diploma,"Diploma in Compensation & Benfits Management, SHRI Academy",2019-09-23,Office Dept Head,70th,2020-11-23,2020-01-22,0,107,Nets,1388,3.7,2102,24,46,427 days,Certificate in Digital Marketing
+2020/2102-070/025,Ms,0,Malaysian (PR),1,1992-09-02,Diploma,Diploma in Accountancy,2017-12-23,Account Senior,70th,2020-11-23,2020-01-22,0,107,Nets,1388,2.4,2102,25,31,1066 days,Certificate in Digital Marketing
+2020/2102-070/026,Ms,0,Singaporean,1,1992-09-06,Certificate,N Level,2019-10-23,Admin Officer,70th,2020-11-23,2020-01-22,1,107,Nets,1388,3.1,2102,26,31,397 days,Certificate in Digital Marketing
+2020/2102-070/027,Ms,0,Singaporean,1,1988-01-17,Degree,"Bachelor of Science in Banking & Finance, UOL",2018-08-23,Senior HR Executive,70th,2020-11-23,2020-01-22,1,107,Nets,1388,2.6,2102,27,36,823 days,Certificate in Digital Marketing
+2020/2102-070/028,Mr,1,Singaporean,1,1987-09-13,Degree,"Bachelor of Arts, NUS",2018-01-23,"Officer, Administration and Operations",70th,2020-11-23,2020-01-22,0,107,Nets,888,3.1,2102,28,36,1035 days,Certificate in Digital Marketing
+2020/2102-070/029,Mr,1,Singaporean,1,1988-01-20,Degree,"Bachelor of Technology (Industrial & Management Engineering), NUS",2017-12-23,HR Executive,70th,2020-11-23,2020-01-22,1,107,Nets,1495,2.8,2102,29,36,1066 days,Certificate in Digital Marketing
+2020/2102-070/030,Ms,0,Singaporean,1,1991-02-16,Degree,Postgraduate Diploma in Strategic Human Capital Management,2019-08-23,Human Reosurce Executive,70th,2020-11-23,2020-01-22,0,107,Nets,1388,3.8,2102,30,33,458 days,Certificate in Digital Marketing
+2020/2102-070/031,Ms,0,Singaporean,1,1972-06-09,Diploma,"Professional Diploma in Leadership and People Management, SSG / 'A' level",2017-12-23,-,70th,2020-11-23,2020-01-22,0,107,Nets,1388,3.3,2102,31,52,1066 days,Certificate in Digital Marketing
+2020/2102-070/032,Mr,1,Singaporean,1,1987-12-04,Degree,"Bachelor of Commerce in Human Resource Management, Murdoch University",2017-01-23,HR Executive,70th,2020-11-23,2020-01-22,0,107,Nets,1308,1.7,2102,32,36,1400 days,Certificate in Digital Marketing
+2020/2102-070/033,Ms,0,Malaysian,0,1998-12-28,Certificate,SPM,2017-11-23,Receptionist,70th,2020-11-23,2020-01-22,1,107,Nets,1495,2.4,2102,33,25,1096 days,Certificate in Digital Marketing
+2020/2102-070/034,Ms,0,Singaporean,1,1973-07-12,Diploma,"Diploma in Integrated Logistics Management, The Logistics Academy Pte Ltd",2018-07-23,-,70th,2020-11-23,2020-01-22,0,107,Giro,1495,2.9,2102,34,51,854 days,Certificate in Digital Marketing
+2020/2102-070/035,Ms,0,Singaporean,1,1978-10-12,Diploma,"Diploma in Product & Industrial Design, Temasek Polytechnic",2017-12-23,-,70th,2020-11-23,2020-01-22,0,107,Nets,1415,3.1,2102,35,45,1066 days,Certificate in Digital Marketing
+2020/2102-070/036,Ms,0,Indian,1,1980-03-16,Master,"Master of Business Administration, Anna University, India",2019-01-23,-,70th,2020-11-23,2020-01-22,0,107,Nets,1388,2.8,2102,36,44,670 days,Certificate in Digital Marketing
+2020/2102-070/037,Ms,0,Singaporean,1,1990-09-21,Degree,"Bachelor of Business, University of Tasmania",2017-09-23,-,70th,2020-11-23,2020-01-22,0,107,Nets,1388,1.9,2102,37,33,1157 days,Certificate in Digital Marketing
+2020/2102-070/038,Ms,0,Singaporean,1,1983-01-12,Certificate,N level,2017-06-23,HR Assistant,70th,2020-11-23,2020-01-22,0,107,Nets,1388,1.9,2102,38,41,1249 days,Certificate in Digital Marketing
+2020/2102-070/039,Ms,0,Singaporean,1,1974-01-23,Degree,"Bachelor of Communication, SIM University",2017-05-23,Senior Manager,70th,2020-11-23,2020-01-22,0,107,Nets,1388,1.8,2102,39,50,1280 days,Certificate in Digital Marketing
+2020/2102-070/040,Ms,0,Singaporean,1,1978-05-22,Degree,"Bachelor of Business Administration, University of South Australia",2017-05-23,HR Manager,70th,2020-11-23,2020-01-22,0,107,Nets,1388,2.8,2102,40,46,1280 days,Certificate in Digital Marketing
+2020/2102-070/041,Ms,0,Singaporean,1,1993-02-04,Degree,"Bachelor of Science in Accounting & Finance, UOL",2019-06-23,-,70th,2020-11-23,2020-01-22,0,107,Nets,1388,3.6,2102,41,31,519 days,Certificate in Digital Marketing
+2020/2102-070/042,Mr,1,Singaporean,1,1985-10-23,Degree,"Graduate Diploma in HRM, MDIS",2017-03-23,"Assistant Manager, Human Resources",70th,2020-11-23,2020-01-22,0,107,Nets,888,1.5,2102,42,38,1341 days,Certificate in Digital Marketing
+2020/2102-070/043,Ms,0,Singaporean,1,1983-11-18,Certificate,"NTC-2 Chemical Process Technology, ITE",2017-05-23,"Associate, HR & Payroll",70th,2020-11-23,2020-01-22,0,107,Nets,1495,1.6,2102,43,40,1280 days,Certificate in Digital Marketing
+2019/2102-063/001,Ms,0,Singaporean,1,1969-02-10,Degree,"Bachelor of Accountancy, NUS",2015-08-18,-,63rd,2019-02-18,2019-04-15,0,107,Nets,1388,3.0,2102,1,55,1280 days,Certificate in Digital Marketing
+2019/2102-063/002,Ms,0,Singaporean,1,1992-07-22,Certificate,O' level; Certificate for Emloyment Intermediaries (CEI) Basic,2017-12-18,Consultant,63rd,2019-02-18,2019-04-15,0,107,Nets,1388,3.9,2102,2,32,427 days,Certificate in Digital Marketing
+2019/2102-063/003,Ms,0,Singaporean,1,1982-07-25,Diploma,"Diploma in Human Resource Management, PSB, ACTA",2016-06-18,-,63rd,2019-02-18,2019-04-15,0,107,Nets,1308,2.6,2102,3,42,975 days,Certificate in Digital Marketing
+2019/2102-063/004,Ms,0,Filipino (PR),1,1962-11-30,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",2015-03-18,Admin Executive,63rd,2019-02-18,2019-04-15,0,107,Nets,1495,2.6,2102,4,61,1433 days,Certificate in Digital Marketing
+2019/2102-063/005,Ms,0,Singaporean,1,1967-10-19,Certificate,O' level,2017-05-18,"Senior Vice President, Gaming Division",63rd,2019-02-18,2019-04-15,0,107,Nets,1495,3.0,2102,5,56,641 days,Certificate in Digital Marketing
+2019/2102-063/006,Ms,0,Singaporean,1,1971-07-05,Degree,"BSc in Business and Management Studies, University of Bradford",2016-06-18,Snr Admin Executive,63rd,2019-02-18,2019-04-15,1,107,Nets,1415,2.3,2102,6,53,975 days,Certificate in Digital Marketing
+2019/2102-063/007,Ms,0,Singaporean,1,1983-03-22,Diploma,"Diploma in Maritime Studies, Institute of Maritime & Business Management (IMBM)",2016-05-18,-,63rd,2019-02-18,2019-04-15,0,107,Nets,1388,3.1,2102,7,41,1006 days,Certificate in Digital Marketing
+2019/2102-063/008,Ms,0,Singaporean,1,1979-11-11,Certificate,O' level,2016-03-18,-,63rd,2019-02-18,2019-04-15,0,107,Nets,1388,2.8,2102,8,44,1067 days,Certificate in Digital Marketing
+2019/2102-063/009,Ms,0,Singaporean,1,1992-04-29,Certificate,"Nitec in Product Design, ITE",2016-03-18,Waitress,63rd,2019-02-18,2019-04-15,0,107,Nets,1388,2.3,2102,9,32,1067 days,Certificate in Digital Marketing
+2019/2102-064/010,Ms,0,Singaporean,1,1987-08-11,Diploma,"Diploma in Business & Human Resource Management, SHRI",2017-02-06,-,64th,2019-05-06,2019-07-05,0,107,Nets,1388,3.3,2102,10,36,819 days,Certificate in Digital Marketing
+2019/2102-064/011,Ms,0,Singaporean,1,1993-07-10,Degree,"Bachelor of Commerce in HRM, Murdoch University",2017-01-06,HR Executive,64th,2019-05-06,2019-07-05,0,107,Nets,1388,2.9,2102,11,31,850 days,Certificate in Digital Marketing
+2019/2102-064/012,Ms,0,Singaporean,1,1988-07-04,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",2015-09-06,Accounts Executive,64th,2019-05-06,2019-07-05,0,107,Nets,1388,3.1,2102,12,36,1338 days,Certificate in Digital Marketing
+2019/2102-064/013,Ms,0,Vietnamese,0,1989-07-24,-,-,2016-06-06,Accounts Executive,64th,2019-05-06,2019-07-05,0,107,Nets,888,2.5,2102,13,35,1064 days,Certificate in Digital Marketing
+2019/2102-064/014,Ms,0,Singaporean,1,1981-01-06,Diploma,"Diploma in Business Administration (HRM), PSB Academy",2016-04-06,HR & Admin,64th,2019-05-06,2019-07-05,0,107,Nets,1495,3.0,2102,14,43,1125 days,Certificate in Digital Marketing
+2019/2102-064/015,Ms,0,Malaysian (PR),0,1984-04-08,Degree,"Bachelor of Arts in HRM with Organisational Psychology, Edinburgh Napier University",2016-09-06,Senior HR,64th,2019-05-06,2019-07-05,1,107,Nets,1388,2.2,2102,15,40,972 days,Certificate in Digital Marketing
+2019/2102-064/016,Ms,0,Singaporean,1,1993-07-18,Degree,"Bachelor of Arts in Business and Finance, Coventry University",2017-04-06,-,64th,2019-05-06,2019-07-05,0,107,Nets,1388,2.2,2102,16,31,760 days,Certificate in Digital Marketing
+2019/2102-064/017,Ms,0,Singaporean,1,1993-12-11,Degree,"Bachelor of Science in Mathematics and Economics, UOL",2015-08-06,HR Executive,64th,2019-05-06,2019-07-05,0,107,Nets,1308,1.5,2102,17,30,1369 days,Certificate in Digital Marketing
+2019/2102-064/018,Mr,1,Singaporean,1,1981-12-10,Degree,"Bachelor of Commerce, Deakin University",2017-07-06,Manager,64th,2019-05-06,2019-07-05,1,107,Nets,1495,3.4,2102,18,42,669 days,Certificate in Digital Marketing
+2019/2102-064/019,Ms,0,Singaporean,1,1984-10-02,Diploma,"Diploma in Business Administration (HRM), PSB Academy / CHRM, SHRI / Nitec in Office Skills, ITE",2018-06-06,Center Administrator,64th,2019-05-06,2019-07-05,0,107,Nets,1495,3.9,2102,19,39,334 days,Certificate in Digital Marketing
+2019/2102-064/020,Ms,0,Singaporean,1,1973-11-04,Certificate,"Certificate in Office Skills, ITE",2016-07-06,-,64th,2019-05-06,2019-07-05,0,107,Nets,1415,3.4,2102,20,50,1034 days,Certificate in Digital Marketing
+2019/2102-064/021,Ms,0,Singaporean,1,1983-03-11,Diploma,"Diploma in Electrical Engineering, Singapore Polytechnic",2015-09-06,"Team Lead, Payroll & Billing",64th,2019-05-06,2019-07-05,0,107,Nets,1388,2.5,2102,21,41,1338 days,Certificate in Digital Marketing
+2019/2102-064/022,Ms,0,Singaporean,1,1982-07-21,Diploma,"Diploma in Electronics, Computer & Communication Engineering, Singapore Polytechnic",2016-05-06,Officer,64th,2019-05-06,2019-07-05,0,107,Nets,1388,2.2,2102,22,42,1095 days,Certificate in Digital Marketing
+2019/2102-065/023,Ms,0,Singaporean,1,1965-08-05,Certificate,O' level,2017-02-22,Senior Executive,65th,2019-07-22,2019-09-20,1,107,Nets,1388,3.1,2102,23,58,880 days,Certificate in Digital Marketing
+2019/2102-065/024,Ms,0,Singaporean,1,1972-01-13,Degree,"Bachelor of Commerce, University of Mumbai",2016-10-22,-,65th,2019-07-22,2019-09-20,0,107,Nets,1388,2.9,2102,24,52,1003 days,Certificate in Digital Marketing
+2019/2102-065/025,Ms,0,Indian (PR),1,1977-03-13,Degree,-,2015-08-22,-,65th,2019-07-22,2019-09-20,0,107,Nets,1388,2.8,2102,25,47,1430 days,Certificate in Digital Marketing
+2019/2102-065/026,Ms,0,Singaporean,1,1986-10-16,Diploma,"Diploma in Electrical & Computer Control Engineering, Singapore Polytechnic / Diploma in Social Service, SSTI / CHRM, SHRI Academy",2016-06-22,HR Assistant,65th,2019-07-22,2019-09-20,0,107,Nets,1388,2.2,2102,26,37,1125 days,Certificate in Digital Marketing
+2019/2102-065/027,Ms,0,Indian,0,1982-05-20,Master,"Master of Business Administration (HR), Amity University, India",2018-08-22,-,65th,2019-07-22,2019-09-20,0,107,Nets,888,3.1,2102,27,42,334 days,Certificate in Digital Marketing
+2019/2102-065/028,Ms,0,Singaporean,1,1983-11-28,Diploma,"Diploma in Business Administration, PSB Academy",2016-04-22,HR & Admin Manager,65th,2019-07-22,2019-09-20,1,107,Nets,1495,2.2,2102,28,40,1186 days,Certificate in Digital Marketing
+2019/2102-065/029,Ms,0,Filipino,0,1973-10-13,Degree,"Bachelor of Business Administration, St Paul College of Dumaguete City, Philippines",2018-01-22,Senior Administrative Executive,65th,2019-07-22,2019-09-20,0,107,Nets,1388,3.2,2102,29,50,546 days,Certificate in Digital Marketing
+2019/2102-065/030,Ms,0,Malaysian (PR),0,1985-02-28,Diploma,"Diploma in Business Administration (HRM), PSB Academy",2016-01-22,Human Resource Administrator,65th,2019-07-22,2019-09-20,1,107,Nets,1388,3.1,2102,30,39,1277 days,Certificate in Digital Marketing
+2019/2102-065/031,Ms,0,Malaysian (PR),0,1993-04-23,Degree,"Bachelor of Business Administration (Honours), Universiti Tunku Abdul Rahman",2018-03-22,HR Executive,65th,2019-07-22,2019-09-20,1,107,Nets,1308,2.8,2102,31,31,487 days,Certificate in Digital Marketing
+2019/2102-065/032,Ms,0,Singaporean,1,1967-09-16,Certificate,A' level,2017-02-22,-,65th,2019-07-22,2019-09-20,0,107,Nets,1495,2.2,2102,32,56,880 days,Certificate in Digital Marketing
+2019/2102-065/033,Ms,0,Singaporean,1,1974-07-02,Diploma,"Advanced Diploma in Business Administration, University of Technology Sydney/IBMEC",2015-08-22,Assistant Manager (Admin Support),65th,2019-07-22,2019-09-20,0,107,Nets,1495,1.7,2102,33,50,1430 days,Certificate in Digital Marketing
+2019/2102-065/034,Ms,0,Singaporean,1,1992-03-09,Degree,"Bachelor of Science in Business, University of London",2016-08-22,HR Officer,65th,2019-07-22,2019-09-20,0,107,Nets,1415,2.2,2102,34,32,1064 days,Certificate in Digital Marketing
+2019/2102-065/035,Ms,0,Singaporean,1,1977-10-16,Diploma,-,2016-12-22,HR/Admin,65th,2019-07-22,2019-09-20,1,107,Nets,1388,2.8,2102,35,46,942 days,Certificate in Digital Marketing
+2019/2102-065/036,Ms,0,Myanmar,0,1989-02-22,Diploma,"Diploma in Accountancy, Kaplan Higher Education Institute",2018-04-22,Admin cum Payroll Officer,65th,2019-07-22,2019-09-20,0,107,Nets,1388,3.7,2102,36,35,456 days,Certificate in Digital Marketing
+2019/2102-065/037,Ms,0,Indian (PR),0,1984-02-24,Master,"MBA, Mangalore University",2016-06-22,-,65th,2019-07-22,2019-09-20,0,107,Nets,1388,2.5,2102,37,40,1125 days,Certificate in Digital Marketing
+2019/2102-065/038,Ms,0,Singaporean,1,1979-06-07,Degree,"Bachelor of Arts in Human Resource Management with Organisational Psychology, SHRI Academy",2016-03-22,Training Coordinator,65th,2019-07-22,2019-09-20,0,107,Nets,1388,1.9,2102,38,45,1217 days,Certificate in Digital Marketing
+2019/2102-065/039,Ms,0,Chinese (PR),0,1983-07-18,Degree,"Bachelor of Business Administration, Xi'an Shiyou University, China",2017-04-22,HR Executive,65th,2019-07-22,2019-09-20,1,107,Nets,1388,2.3,2102,39,41,821 days,Certificate in Digital Marketing
+2019/2102-065/040,Ms,0,Singaporean,1,1992-12-01,Degree,"Bachelor of Arts in Accounting & Financial Management, The University of Sheffield",2016-01-22,Client Accountant,65th,2019-07-22,2019-09-20,1,107,Nets,1388,3.1,2102,40,31,1277 days,Certificate in Digital Marketing
+2019/2102-065/041,Ms,0,Singaporean,1,1981-08-18,Diploma,"Diploma in Business & HRM, SHRI",2017-01-22,HR & Admin Officer,65th,2019-07-22,2019-09-20,0,107,Nets,888,2.9,2102,41,42,911 days,Certificate in Digital Marketing
+2019/2102-065/042,Ms,0,Indian (PR),0,1984-03-23,Degree,"Bachelor of Science (Agriculture), Kerala Agriculture University",2018-06-22,Corporate Service Executive,65th,2019-07-22,2019-09-20,0,107,Nets,1495,3.7,2102,42,40,395 days,Certificate in Digital Marketing
+2019/2102-065/043,Ms,0,Singaporean,1,1991-12-03,Degree,"Bachelor of Commerce in HRM,   Murdoch University",2015-11-22,Senior Eexcutive,65th,2019-07-22,2019-09-20,1,107,Nets,1388,1.5,2102,43,32,1338 days,Certificate in Digital Marketing
+2019/2102-066/044,Ms,0,Singaporean,1,1967-03-17,Certificate,A' level,2016-05-25,-,66th,2019-09-25,2019-11-22,0,107,Nets,1388,2.0,2102,44,57,1218 days,Certificate in Digital Marketing
+2019/2102-066/045,Ms,0,Singaporean,1,1984-01-15,Diploma,"Diploma in Accountancy, Ngee Ann Polytechnic",2018-04-25,Accountant,66th,2019-09-25,2019-11-22,0,107,Nets,1308,3.9,2102,45,40,518 days,Certificate in Digital Marketing
+2019/2102-066/046,Ms,0,Malaysian,0,1994-10-04,Diploma,Diploma in Commerce (Human Resource Management),2016-04-25,HR Assistant,66th,2019-09-25,2019-11-22,1,107,Nets,1495,2.5,2102,46,29,1248 days,Certificate in Digital Marketing
+2019/2102-066/047,Ms,0,Singaporean,1,1965-12-02,Diploma,"Diploma in Business Adminsitration, Singapore Polytechnic",2015-10-25,Snr HR Executive,66th,2019-09-25,2019-11-22,1,107,Nets,1495,2.8,2102,47,58,1431 days,Certificate in Digital Marketing
+2019/2102-066/048,Ms,0,Singaporean,1,1965-09-05,Diploma,"Diploma in Personnel Management, National Productivity Board",2018-09-25,Snr HR Executive,66th,2019-09-25,2019-11-22,1,107,Nets,1415,3.5,2102,48,58,365 days,Certificate in Digital Marketing
+2019/2102-066/049,Ms,0,Filipino,0,1983-05-09,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",2016-12-25,Labour Admin Executive,66th,2019-09-25,2019-11-22,0,107,Nets,1388,3.2,2102,49,41,1004 days,Certificate in Digital Marketing
+2019/2102-066/050,Ms,0,Filipino,0,1983-12-05,Degree,"Bachelor in Banking and Finance, Polytechnic University of the Philippines",2017-01-25,HR Payroll Analyst,66th,2019-09-25,2019-11-22,0,107,Nets,1388,3.4,2102,50,40,973 days,Certificate in Digital Marketing
+2019/2102-066/051,Ms,0,Filipino,0,1978-09-27,Degree,"Bachelor of Science in Accountancy, University of Santo Tomas",2017-10-25,Payroll,66th,2019-09-25,2019-11-22,0,107,Nets,1388,2.9,2102,51,45,700 days,Certificate in Digital Marketing
+2019/2102-066/052,Ms,0,Singaporean,1,1981-08-10,Diploma,"Diploma in Human Resource Management, PSB Academy",2016-03-25,People Ops Specialist - APAC,66th,2019-09-25,2019-11-22,0,107,Nets,1388,2.5,2102,52,42,1279 days,Certificate in Digital Marketing
+2019/2102-067/053,Ms,0,Singaporean,1,1986-11-27,Degree,"Bachelor of Communication, Murdoch University",2017-12-25,Editor,67th,2019-11-25,2020-01-17,0,107,Nets,1388,2.8,2102,53,37,700 days,Certificate in Digital Marketing
+2019/2102-067/054,Ms,0,Singaporean,1,1990-04-18,Certificate,"Certificate in HRM, SHRI Academy",2016-01-25,HRM,67th,2019-11-25,2020-01-17,0,107,Nets,1388,1.6,2102,54,34,1400 days,Certificate in Digital Marketing
+2019/2102-067/055,Ms,0,Singaporean,1,1991-10-21,Degree,"Bachelor of Arts in HRM, Kingston University",2017-11-25,HR Supervisor,67th,2019-11-25,2020-01-17,0,107,Nets,1388,2.5,2102,55,32,730 days,Certificate in Digital Marketing
+2019/2102-067/056,Ms,0,Indian,0,1981-06-08,Degree,"Bachelor of Bank Management, University of Madras",2018-05-25,Account Manager,67th,2019-11-25,2020-01-17,0,107,Nets,1388,3.0,2102,56,43,549 days,Certificate in Digital Marketing
+2019/2102-067/057,Ms,0,Malaysian (PR),0,1987-09-06,Degree,"Bachelor of Business Administration, Universiti Tunku Abdul Rahman",2017-09-25,Human Resource Officer,67th,2019-11-25,2020-01-17,1,107,Nets,1388,2.4,2102,57,36,791 days,Certificate in Digital Marketing
+2019/2102-067/058,Ms,0,China (PR),0,1984-10-31,Master,"Master of Business Adminsitration, Southern Cross University",2016-01-25,HR & Admin Officer,67th,2019-11-25,2020-01-17,0,107,Nets,1388,2.2,2102,58,39,1400 days,Certificate in Digital Marketing
+2020/5112-012/010,Ms,0,Singaporean,1,1988-08-16,Degree,"Bachelor of Business (Accountancy)/
+Royal Melbourne Institute of Technology",2017-07-30,Sr HR Associate,12th,2020-10-30,2021-04-29,0,107,Nets,5803,2.1,5112,10,35,1188 days,Bachelor of Business Administration
+2020/5112-012/011,Ms,0,Singaporean,1,1984-03-14,Degree,"Diploma in Business & Human Resource Management/
+Singapore Human Resource Management",2017-04-30,"Assistant Manager, HR Operations",12th,2020-10-30,2021-04-29,0,107,Nets,5803,1.7,5112,11,40,1279 days,Bachelor of Business Administration
+2020/5112-012/012,Ms,0,Singaporean,1,1970-08-16,Postgraduate Diploma,"Postgraduate Diploma in Education (Specialisation in teaching at Secondary School level)/
+Nanyang Technological University",2019-08-30,Assistant Admin Manager,12th,2020-10-30,2021-04-29,0,107,Nets,5803,3.6,5112,12,53,427 days,Bachelor of Business Administration
+2020/5112-012/013,Ms,0,Singaporean,1,1989-03-20,Degree,"Bachelor of Education with a minor in Department of Geography/
+National Taiwan Normal University",2019-06-30,Flight Stewardess,12th,2020-10-30,2021-04-29,0,107,Nets,5803,3.1,5112,13,35,488 days,Bachelor of Business Administration
+2020/5112-012/014,Mr,1,Singaporean,1,1981-06-08,Diploma,"Diploma in Electronic & Computer Engineering/
+Ngee Ann Polytechnic",2017-05-30,Head of HR,12th,2020-10-30,2021-04-29,0,107,Nets,5803,1.9,5112,14,43,1249 days,Bachelor of Business Administration
+2020/5112-012/015,Ms,0,Singaporean,1,1994-06-02,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",2016-11-30,HR Analyst,12th,2020-10-30,2021-04-29,0,107,Nets,5803,1.6,5112,15,30,1430 days,Bachelor of Business Administration
+2020/5112-011/006,Ms,0,Singaporean,1,1982-02-24,Degree,"Degree of Bachelor of Engineering (Materials Engineering)/
+Nanyang Technological University",2019-08-21,ASSISTANT HR MANAGER,11th,2020-08-21,2021-02-20,0,107,Nets,5803,3.8,5112,6,42,366 days,Bachelor of Business Administration
+2020/5112-011/007,Ms,0,Singaporean,1,1991-05-07,Degree,"Bachelor of Business (Management)/
+RMIT University",2018-07-21,HR Officer,11th,2020-08-21,2021-02-20,0,107,Giro,5803,2.2,5112,7,33,762 days,Bachelor of Business Administration
+2020/5112-011/008,Ms,0,Singaporean,1,1985-07-16,Degree,"Bachelor of Arts/
+National University of Singapore",2018-08-21,HR Manager,11th,2020-08-21,2021-02-20,0,107,Nets,5803,2.2,5112,8,39,731 days,Bachelor of Business Administration
+2020/5112-011/009,Mr,1,Singaporean,1,1992-03-21,Degree,"Bachelor of Business with Second Class Honours (Upper Division)/
+Nanyang Technological University",2017-03-21,Recruitment Consultant,11th,2020-08-21,2021-02-20,0,107,Nets,5803,2.8,5112,9,32,1249 days,Bachelor of Business Administration
+2020/5112-010/003,Mr,1,Singaporean,1,1991-01-08,Degree,"Bachelor of Business Administration (Accountancy) with Honours (Merit)/
+National University of Singapore",2018-06-20,"Senior Analyst, Compensation & Benefits",10th,2020-03-20,2020-09-19,0,107,Nets,5803,3.4,5112,3,33,639 days,Bachelor of Business Administration
+2020/5112-010/004,Mr,1,Malaysian(PR),1,1984-10-31,Degree,"Bachelor of Communications Major in Journalism; Major in Public Relations/
+Edith Cowan University",2019-02-20,Senior Manager,10th,2020-03-20,2020-09-19,0,107,Nets,5803,3.2,5112,4,39,394 days,Bachelor of Business Administration
+2020/5112-010/005,Ms,0,Singaporean,1,1983-03-29,Degree,"Bachelor of Business (Management)/
+Royal Melbourne Institute of Technology",2018-02-20,Senior HR Executive,10th,2020-03-20,2020-09-19,0,107,Giro,5803,2.8,5112,5,41,759 days,Bachelor of Business Administration
+2020/5112-009/001,Ms,0,Indian (PR),1,1984-02-16,Degree,"Bachelor of Arts (Honours)/
+University of Delhi",2016-09-10,HR Executive,9th,2020-01-10,2020-07-09,0,107,Nets,5803,1.7,5112,1,40,1217 days,Bachelor of Business Administration
+2020/5112-009/002,Ms,0,Singaporean,1,1983-07-17,Degree,"Bachelor of Science (Consumer Science) Honours Second Class Upper/
+Universiti Putra Malaysia",2018-04-10,-,9th,2020-01-10,2020-07-09,0,107,Nets,5803,2.6,5112,2,41,640 days,Bachelor of Business Administration
+2019/5112-008/013,Mr,1,Singaporean,1,1983-01-22,Degree,"Degree of Bachelor of Science with Honours in Biological Sciences/
+Nanyang Technological University",2017-12-20,-,8th,2019-09-20,2020-03-19,0,107,Nets,5803,3.2,5112,13,41,639 days,Bachelor of Business Administration
+2019/5112-008/014,Ms,0,Singaporean,1,1982-10-17,Degree,"Honours Degree of Bachelor of Science (Management)/
+National University of Ireland",2018-09-20,HR Manager,8th,2019-09-20,2020-03-19,0,107,Nets,5803,2.8,5112,14,41,365 days,Bachelor of Business Administration
+2019/5112-008/015,Mr,1,Singaporean,1,1986-03-27,Master,"Master of Arts (Chinese Studies)/
+National University of Singapore",2016-06-20,Senior Recruitment Manager,8th,2019-09-20,2020-03-19,0,107,Nets,5803,2.8,5112,15,38,1187 days,Bachelor of Business Administration
+2019/5112-008/016,Ms,0,Chinese,1,1989-08-06,Degree,"Bachelor of Business (Accounting)/
+Murdoch University",2018-10-20,Admin Supervisor,8th,2019-09-20,2020-03-19,0,107,Nets,5803,3.2,5112,16,34,335 days,Bachelor of Business Administration
+2019/5112-008/017,Ms,0,Singaporean,1,1974-08-07,Degree,"Bachelor of Business with Honours Class Two: I (International Business)/
+Universiti Malaysia Sabah",2016-08-20,Admin Manager,8th,2019-09-20,2020-03-19,0,107,Nets,5803,2.9,5112,17,49,1126 days,Bachelor of Business Administration
+2019/5112-008/018,Ms,0,Chinese (PR),1,1985-09-07,Degree,"Bachelor of Business (Economics and Finance)/
+RMIT University",2017-03-20,HR Executive,8th,2019-09-20,2020-03-19,0,107,Nets,5803,2.3,5112,18,38,914 days,Bachelor of Business Administration
+2019/5112-007/007,Ms,0,Filipino,0,1975-09-23,Degree,"Bachelor in Tourism/
+Polytechnic University of The Philippines",2018-05-05,Human Resource Executive,7th,2019-07-05,2020-01-04,0,107,Nets,5803,3.0,5112,7,48,426 days,Bachelor of Business Administration
+2019/5112-007/008,Ms,0,Singaporean,1,1983-09-01,Diploma,"Diploma in Business Administration/
+Systematic College Johor Bahru",2016-10-05,HR Specialist,7th,2019-07-05,2020-01-04,0,107,Nets,5803,3.2,5112,8,40,1003 days,Bachelor of Business Administration
+2019/5112-007/009,Ms,0,Myanmar,0,1984-01-26,Degree,"Degree of Bachelor of Development Studies/
+Yangon Institute of Economics",2017-10-05,Human Resource & Admin Manager,7th,2019-07-05,2020-01-04,0,107,Giro,5803,2.9,5112,9,40,638 days,Bachelor of Business Administration
+2019/5112-007/010,Ms,0,Singaporean,1,1977-04-11,Degree,"Bachelor of Arts with Merit/
+National University of Singapore",2015-11-05,Senior HR Executive,7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.9,5112,10,47,1338 days,Bachelor of Business Administration
+2019/5112-007/011,Ms,0,Singaporean,1,1969-10-31,Diploma,"Diploma in Commerce (Business Administration)/
+Kaplan Higher Education Institute",2016-05-05,Human Resource Director,7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.2,5112,11,54,1156 days,Bachelor of Business Administration
+2019/5112-007/012,Ms,0,Singaporean,1,1993-10-04,Degree,"Bachelor of Commerce in Hospitality & Tourism Management and Human Resource Management/
+Murdoch University",2017-09-05,"Executive, Human Capital",7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.8,5112,12,30,668 days,Bachelor of Business Administration
+2019/5112-006/004,Ms,0,Singaporean,1,1972-11-14,Diploma,"Diploma in Business Administration/
+International Business and Management Education Centre (IBMEC)",2015-10-08,"HR & Operations Manager, South East Asia",6th,2019-03-08,2019-09-07,0,107,Nets,5803,2.3,5112,4,51,1247 days,Bachelor of Business Administration
+2019/5112-006/005,Ms,0,Singaporean,1,1985-03-12,Degree,"Bachelor of Accountancy (Merit)/
+Singapore Management University",2015-08-08,Assistant Manager Americas,6th,2019-03-08,2019-09-07,0,107,Nets,5803,3.1,5112,5,39,1308 days,Bachelor of Business Administration
+2019/5112-006/006,Mr,1,Singaporean,1,1985-06-22,Diploma,"Diploma in Compensation & Benefits Management/
+SHRI Academy Pte Ltd",2015-10-08,HR Executive,6th,2019-03-08,2019-09-07,0,107,Nets,5803,2.7,5112,6,39,1247 days,Bachelor of Business Administration
+2019/5112-005/001,Mr,1,Singaporean,1,1977-08-09,Degree,"Bachelor of Arts with Honours Second Class:  Division II in International Business/
+Birmingham City University",2015-10-04,Helpdesk Manager,5th,2019-01-04,2019-07-03,0,107,Nets,5803,1.8,5112,1,46,1188 days,Bachelor of Business Administration
+2019/5112-005/002,Ms,0,Singaporean,1,1982-06-01,Degree,"Bachelor of Arts in Tourism Events/
+Murdoch University",2016-10-04,Business Manager,5th,2019-01-04,2019-07-03,0,107,Nets,5803,2.3,5112,2,42,822 days,Bachelor of Business Administration
+2019/5112-005/003,Ms,0,Singaporean,1,1992-10-12,Degree,"Bachelor of Science in Business/
+University of London",2016-01-04,Talent Acquisition Specialist,5th,2019-01-04,2019-07-03,0,107,Nets,5803,2.5,5112,3,31,1096 days,Bachelor of Business Administration
+2020/5113-012/015,Ms,0,Singaporean,1,1974-04-29,Degree,"Bachelor of Commerce in Management and Marketing Management/
+Murdoch University",2017-02-28,Confidential Assistant,12th,2020-10-30,2021-04-29,0,107,Nets,5803,2.9,5113,15,50,1340 days,Master of Business Administration
+2020/5113-012/016,Ms,0,Singaporean,1,1981-10-19,Degree,"Bachelor of Arts in Human Resource Management with Organisational Psychology/
+Edinburgh Napier University",2018-01-30,Journey Management Team Lead,12th,2020-10-30,2021-04-29,0,107,Nets,5803,2.6,5113,16,42,1004 days,Master of Business Administration
+2020/5113-012/017,Ms,0,Singaporean,1,1989-03-19,Degree,"Bachelor of Arts (Sociology)/
+State University of New York at Buffalo",2017-05-30,Academy Program Coordinator,12th,2020-10-30,2021-04-29,0,107,Nets,5803,1.5,5113,17,35,1249 days,Master of Business Administration
+2020/5113-012/018,Ms,0,"Chinese
+(China)",0,1998-11-28,Degree,"Bachelor of Arts with Honours (Distinction) in Global Studies/
+National University of Singapore",2019-11-30,Management Associate,12th,2020-10-30,2021-04-29,0,107,Nets,5803,4.0,5113,18,25,335 days,Master of Business Administration
+2020/5113-011/010,Mr,1,Singaporean,1,1991-01-14,Degree,"Bachelor of Science in Finance (Pass with Merit)/
+Singapore University of Social Sciences",2018-11-21,Audit Associate,11th,2020-08-21,2021-02-20,0,107,Nets,5803,2.9,5113,10,33,639 days,Master of Business Administration
+2020/5113-011/011,Mr,1,Singaporean,1,1978-08-18,Master,"Master in Business Administration with Merit/
+University of Bradford",2019-02-21,Lecturer,11th,2020-08-21,2021-02-20,0,107,Nets,5803,3.7,5113,11,45,547 days,Master of Business Administration
+2020/5113-011/012,Ms,0,Singaporean,1,1984-12-05,Diploma,"Specialist Diploma in Human Resource Management/
+Nanyang Polytechnic",2016-11-21,HR Executive,11th,2020-08-21,2021-02-20,0,107,Nets,5803,2.0,5113,12,39,1369 days,Master of Business Administration
+2020/5113-011/013,Mr,1,Singaporean,1,1984-06-04,Master,"Master of Applied Science (Research)/
+Queensland University of Technology",2017-12-21,Consultant,11th,2020-08-21,2021-02-20,0,107,Nets,5803,2.6,5113,13,40,974 days,Master of Business Administration
+2020/5113-011/014,Ms,0,Singaporean,1,1991-11-18,Degree,"Bachelor of Business (Marketing)/
+RMIT University",2017-03-21,Regional Recruiter,11th,2020-08-21,2021-02-20,0,107,Nets,5803,3.0,5113,14,32,1249 days,Master of Business Administration
+2020/5113-010/007,Mr,1,Singaporean,1,1977-01-03,Postgraduate Diploma,"Postgraduate Diploma in Education (Specialisation in teaching at Secondary School)/
+Nanyang Technological University +
+Bachelor of Arts (Multimedia Design)/
+Curtin University of Technology",2018-04-20,Teacher,10th,2020-03-20,2020-09-19,0,107,Nets,5803,2.8,5113,7,47,700 days,Master of Business Administration
+2020/5113-010/008,Ms,0,Indian,0,1990-07-27,Master,"Master of Business Administration (First Class with Distinction)/
+Jawaharlal Nehru Technological University Anantapur",2018-04-20,Manager,10th,2020-03-20,2020-09-19,0,107,Nets,5803,2.3,5113,8,34,700 days,Master of Business Administration
+2020/5113-010/009,Ms,0,Singaporean,1,1993-11-07,Degree,"Graduate Diploma in Systems Analysis/
+National University of Singapore",2017-07-20,IT Developer,10th,2020-03-20,2020-09-19,0,107,Nets,5803,3.4,5113,9,30,974 days,Master of Business Administration
+2020/5113-009/001,Ms,0,Singaporean,1,1993-09-01,Degree,"Bachelor of Science with Second Class Honours (Upper Division) in Business/
+University of London",2019-02-10,Senior Human Resource Executive,9th,2020-01-10,2020-07-09,0,107,Nets,5803,3.7,5113,1,30,334 days,Master of Business Administration
+2020/5113-009/002,Mr,1,Singaporean,1,1992-01-02,Degree,"Bachelor of Commerce (Management Human Resource Management)/
+Murdoch University",2018-04-10,"Senior Executive, Human Resource",9th,2020-01-10,2020-07-09,0,107,Nets,5803,2.2,5113,2,32,640 days,Master of Business Administration
+2020/5113-009/003,Ms,0,Singaporean,1,1986-01-17,Degree,"Bachelor of Science (Education) with Second Class Honours (Lower Division)/
+National Technological University",2017-04-10,"Manager, Leadership & Coaching",9th,2020-01-10,2020-07-09,0,107,Nets,5803,2.8,5113,3,38,1005 days,Master of Business Administration
+2020/5113-009/004,Ms,0,Singaporean,1,1996-10-21,Degree,"Bachelor of Arts (Communication and Psychology)/
+State University of New York at Buffalo",2016-10-10,"Executive, HR",9th,2020-01-10,2020-07-09,0,107,Nets,5803,2.1,5113,4,27,1187 days,Master of Business Administration
+2020/5113-009/005,Mr,1,Singaporean,1,1981-02-11,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",2016-05-10,Manager,9th,2020-01-10,2020-07-09,0,107,Nets,5803,2.4,5113,5,43,1340 days,Master of Business Administration
+2020/5113-009/006,Mr,1,Singaporean,1,1979-07-17,Degree,"Bachelor of Science/
+National University of Singapore",2016-07-10,Assistant Vice-President,9th,2020-01-10,2020-07-09,0,107,Nets,5803,1.8,5113,6,45,1279 days,Master of Business Administration
+2019/5113-008/007,Ms,0,Singaporean,1,1980-11-06,Master,"Degree of Master of English as a Second Language/
+University of Malaya",2016-11-20,HR Section Manager,8th,2019-09-20,2020-03-19,0,107,Nets,5803,3.0,5113,7,43,1034 days,Master of Business Administration
+2019/5113-008/008,Ms,0,Singaporean,1,1990-09-22,Degree,"Bachelor of Commerce in Accounting/
+Murdoch University",2017-10-20,HR Assistant,8th,2019-09-20,2020-03-19,0,107,Nets,5803,3.4,5113,8,33,700 days,Master of Business Administration
+2019/5113-007/004,Mr,1,Singaporean,1,1985-02-09,Degree,"Bachelor of Science in Accounting and Finance with Third Class Honours/
+University of London",2016-04-05,Bank Executive,7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.8,5113,4,39,1186 days,Master of Business Administration
+2019/5113-007/005,Ms,0,Singaporean,1,1973-10-01,Degree,"Bachelor of Commerce (Accounting and Finance)/
+Curtin University of Technology",2017-11-05,"Head, Registry & Corp Admin",7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.9,5113,5,50,607 days,Master of Business Administration
+2019/5113-007/006,Ms,0,Indonesian (PR),1,1982-09-30,Degree,"Bachelor of Economics (Accounting)/
+Universitas Katolik Indonesia",2016-05-05,Finance Officer,7th,2019-07-05,2020-01-04,0,107,Nets,5803,2.0,5113,6,41,1156 days,Master of Business Administration
+2019/5113-006/003,Ms,0,Singaporean,1,1990-03-06,Degree,"Bachelor of Science in Hotel Administration (Hospitality Management)/
+University of Nevada, Las Vegas",2015-06-08,HR Assistant,6th,2019-03-08,2019-09-07,0,107,Nets,5803,2.8,5113,3,34,1369 days,Master of Business Administration
+2019/5113-005/001,Ms,0,Singaporean,1,1981-11-14,Degree,"Bachelor of Arts with Second Class Honours (Lower Division) in Business with Logistics and Supply Chain Management/
+University of Northumbria at Newscastle",2014-08-04,Household Goods Coordinator,5th,2019-01-04,2019-07-03,0,107,Nets,5803,1.9,5113,1,42,1614 days,Master of Business Administration
+2019/5113-005/002,Ms,0,Singaporean,1,1983-01-28,Degree,"Bachelor of Business (Business Administration) with Distinction/
+Royal Melbourne Institute of Technology",2016-10-04,"Assistant Director, Human Resources",5th,2019-01-04,2019-07-03,0,107,Nets,5803,2.9,5113,2,41,822 days,Master of Business Administration

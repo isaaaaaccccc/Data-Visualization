@@ -1,0 +1,310 @@
+STUDENT ID,SALUTATION,GENDER,NATIONALITY,LOCAL,FOREIGN,DOB,HIGHEST QUALIFICATION,NAME OF QUALIFICATION AND INSTITUTION,DATE ATTAINED HIGHEST QUALIFICATION,DESIGNATION,INTAKE NO,COMMENCEMENT DATE,COMPLETION DATE,FULL-TIME OR PART-TIME,COURSE FUNDING,REGISTRATION FEE,PAYMENT MODE,COURSE FEE,GPA
+2020/1101-013/001,Ms,F,Singaporean,Y, ,04/03/1978,Certificate,"Certificate in Office Skills, ITE",2016-11-06,"Snr Associate, Client Services",13th,2020-01-06,2021-04-06 00:00:00,Part-Time,Individual - SFC,107,NETS,1712,3.0
+2020/1101-013/002,Ms,F,Singaporean,Y, ,23/03/1966,Certificate,"WSQ Higher Certificate in Human Resources, WPLN, Fundamentals Certificate in Early Childhood Care and Education",2018-02-06,Admin Officer,13th,2020-01-06,2021-04-06 00:00:00,Part-Time,Individual,107,NETS,1712,2.5
+2020/1101-013/003,Ms,F,Singaporean,Y,,04/12/1988,Certificate,"Nitec in Service Skills (Office), ITE",2016-11-06,Admin Assistant,13th,2020-01-06,2021-04-06 00:00:00,Part-Time,Sponsored - no SDF,107,CC JPM,1712,2.0
+2020/1101-014/004,Ms,F,Singaporean,Y,,27/11/1991,Degree,"Bachelor Science (Facilities & Events Management), SUSS",2017-06-10,HR Administrator,14th,2020-03-10,2021-06-09 00:00:00,Part-Time,Individual - SFC,107,NETS,1212,2.5
+2020/1101-014/005,Ms,F,Singaporean,Y, ,23/04/1985,Diploma,"Diploma in Procurement and Supply Management, SIPMM Academy",2016-08-10,Purchasing Executive,14th,2020-03-10,2021-06-09 00:00:00,Part-Time,Individual - SFC,107,NETS,1712,2.4
+2020/1101-014/006,Ms,F,Malaysian (PR), ,Y,15/03/1981,Certificate,"Certificate in Payroll Administration, SHRI Academy, SPM",2016-08-10,HR Executive,14th,2020-03-10,2021-06-09 00:00:00,Part-Time,Sponsored,107,GIRO,1604,1.8
+2020/1101-014/008,Ms,F,Chinese, ,Y,21/01/1994,Master,"Master of Public Administration, San Jose State University",2018-03-10,PR Executive,14th,2020-03-10,2021-06-09 00:00:00,Part-Time,Individual   ,107,Cr Card,1712,3.0
+2020/1101-015/009,Ms,F,Singaporean,Y,,09/07/1975,Degree,"Bachelor of Science in Business & Mgt Studies, University of Bradford",2017-12-06,HR Executive,15th,2020-07-06,2021-10-05 00:00:00,Part-Time,Individual - SFC,107,Giro,1712,2.5
+2020/1101-015/010,Ms,F,Singaporean,Y,,09/06/1977,Degree,"Bachelor of Business (Advertising), Queensland University of Technology",2018-10-06,-,15th,2020-07-06,2021-10-05 00:00:00,Part-Time,Individual - SFC,107,Giro,1712,2.2
+2020/1101-015/011,Ms,F,Singaporean,Y,,05/12/1991,Diploma,"Diploma in Environmental Science, Republic Polytechnic",2016-09-06,-,15th,2020-07-06,2021-10-05 00:00:00,Part-Time,Individual ,107,Giro,1712,3.1
+2020/1101-016/012,Ms,F,Singaporean,Y,,19/07/1983,Degree,"Bachelor of Arts in Accounting, University of Bedfordshire",2017-11-01,Accounts cum HR Executive,16th,2020-09-01,2021-11-30 00:00:00,Part-Time,Individual ,107,Giro,1712,2.6
+2020/1101-016/013,Ms,F,Singaporean,Y,,02/10/1989,Degree,"Bachelor of Science (Business Management), University of Birmingham",2019-08-01,-,16th,2020-09-01,2021-11-30 00:00:00,Part-Time,Individual - SFC,107,Giro,1712,4.0
+2020/1101-016/014,Ms,F,Singaporean,Y,,05/03/1996,Certificate,N level,2017-09-01,Admin & HR Executive,16th,2020-09-01,2021-11-30 00:00:00,Part-Time,Sponsored,107,Giro,1604,3.2
+2020/1101-017/015,Ms,F,Singaporean,Y,,27/08/1994,Diploma,"Diploma in Events Management, Kaplan",2018-11-02,HR Assistant,17th,2020-11-02,2022-02-02 00:00:00,Part-Time,Sponsored,107,SMBC 278451,1604,3.0
+2020/1101-017/016,Ms,F,Singaporean,Y,,27/01/1980,Diploma,"Diploma in Hotel Management, SHATEC",2019-01-02,Rooms Division Manager,17th,2020-11-02,2022-02-02 00:00:00,Part-Time,Individual - SFC,107,Giro,1712,2.9
+2020/1101-017/017,Ms,F,Singaporean,Y,,16/04/1995,Diploma,"Diploma in Healthcare Administration, Republic Polytechnic",2018-04-02,"HR Associate, Southeast Asia",17th,2020-11-02,2022-02-02 00:00:00,Part-Time,Sponsored,107,Giro,1604,3.4
+2020/1101-017/018,Ms,F,Singaporean,Y,,18/06/1983,Certificate,N level,2018-01-02,-,17th,2020-11-02,2022-02-02 00:00:00,Part-Time,Individual - SFC,107,Giro,1712,3.3
+2020/1101-017/019,Ms,F,Singaporean,Y,,06/01/1989,Degree,"Bachelor of Science in Business, UOL",2016-12-02,Administrative Executive,17th,2020-11-02,2022-02-02 00:00:00,Part-Time,Sponsored,107,Giro,1604,1.8
+2019/1101-007/001,Ms,F,Malaysian, ,Y,13/09/1981,Certificate,SPM,2018-01-08,Admin & HR Assistant,7th,2019-01-08,2020-04-07 00:00:00,Part-Time,Individual,107,GIRO,1712,3.2
+2019/1101-007/002,Ms,F,Singaporean,Y,,26/07/1979,Certificate,"Certificate in Office Skills, ITE",2016-06-08,Admin Assistant,7th,2019-01-08,2020-04-07 00:00:00,Part-Time,Individual-SFC,107,NETS,1712,3.1
+2019/1101-007/003,Ms,F,Indian , ,Y,01/02/1990,Degree,"Bachelor of Business Administration, University of Rajasthan, India",2015-08-08,-,7th,2019-01-08,2020-04-07 00:00:00,Part-Time,Individual,107,NETS,1712,3.1
+2019/1101-007/004,Ms,F,Netherlands, ,Y,20/04/1976,Diploma,"Office Management Diploma, NCOI Rotterdam, The Netherlands",2018-02-08,HR Support / Office Manager,7th,2019-01-08,2020-04-07 00:00:00,Part-Time,Individual,107,NETS,1712,3.6
+2019/1101-007/005,Ms,F,Singaporean,Y,,25/11/1983,Diploma,"Diploma in Business Admininstration, LCCI Level 3, Private Secretary's Diploma, LCCI",2015-06-08,"Executive, Administration",7th,2019-01-08,2020-04-07 00:00:00,Part-Time,Sponsored,107,CITI 067168,1604,2.2
+2019/1101-008/006,Ms,F,Malaysian (PR), ,Y,17/10/1968,Certificate,"Lower Secondary Education, Malaysia",2015-05-07,Administrator,8th,2019-03-07,2020-06-06 00:00:00,Part-Time,Individual - SFC,107,MBB 000023,1212,1.8
+2019/1101-008/007,Ms,F,Indian (PR),,Y,22/10/1979,Master,"Master in Computer Science, Osmania University, India",2015-06-07,-,8th,2019-03-07,2020-06-06 00:00:00,Part-Time,Individual ,107,SCB 726231,1712,2.7
+2019/1101-008/008,Ms,F,Singaporean,Y,,29/06/1980,Certificate,N' level,2015-07-07,Admin & Finance Executive,8th,2019-03-07,2020-06-06 00:00:00,Part-Time,Sponsored,107,GIRO,1604,1.7
+2019/1101-008/009,Ms,F,Singaporean,Y,,25/05/1976,Certificate,O' level,2015-08-07,Admin Assistant,8th,2019-03-07,2020-06-06 00:00:00,Part-Time,Individual,107,NETS,1712,1.8
+2019/1101-009/010,Ms,F,Singaporean,Y, ,30/11/1983,Certificate,N Level,2018-05-07,Operation Executive,9th,2019-05-07,2020-08-06 00:00:00,Part-Time,Sponsored,107,OCBC 006258,1604,2.9
+2019/1101-009/011,Ms,F,Malaysian,,Y,08/07/1992,Certificate,SPM,2017-05-07,Clerk,9th,2019-05-07,2020-08-06 00:00:00,Part-Time,Individual,"107
+107","Nets
+Nets*",1712,3.0
+2019/1101-010/012,Ms,F,Malaysian (PR), ,Y,02/11/1988,Degree,"Bahcelor of Management (Marketing), Universiti Teknologi Malaysia",2018-08-09,HR & Admin,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Sponsored ,107,Nets,1712,3.0
+2019/1101-010/013,Mr,M,Singaporean,Y, ,31/01/1990,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",2015-11-09,Early Childhood Support Office,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual - SFC,107,Nets,1712,1.8
+2019/1101-010/014,Ms,F,Singaporean,Y, ,20/04/1973,Certificate,O' level,2016-02-09,Office Manager,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Sponsored ,107,Giro,1712,1.9
+2019/1101-010/015,Ms,F,Singaporean,Y, ,09/03/1991,Certificate,O' level,2016-03-09,Business Development Executive,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual - SFC,107,Nets,1712,2.3
+2019/1101-010/016,Ms,F,Singaporean,Y, ,17/06/1990,Certificate,N Level,2018-01-09,Human Resource Assistant,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Sponsored,107,Giro,1604,3.7
+2019/1101-010/017,Ms,F,Singaporean,Y, ,04/01/1990,Degree,"Bachelor of Arts in Business with Logistics and Supply Chain Management, University of Northumbria",2016-03-09,"Executive, Planning & Delivery",10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual,107,Nets,1712,2.8
+2019/1101-010/019,Ms,F,Malaysian  , ,Y,10/09/1986,Certificate,SPM,2016-08-09,Admin Assistant,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Sponsored - no SDF,107,Nets,1712,3.1
+2019/1101-010/020,Ms,F,Singaporean,Y, ,03/08/1997,Diploma,"Diploma in Business, Temasek Polytechnic",2017-12-09,Secretary,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual,107,Nets,1712,2.2
+2019/1101-010/021,Ms,F,Singaporean,Y, ,02/08/1970,Diploma,"Diploma in Business Administration, PSB Academy",2016-02-09,Executive Assistant,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual - SFC,107,Nets,1712,3.1
+2019/1101-010/022,Ms,F,Singaporean,Y, ,08/03/1973,Certificate,"Certificate in Office Skills, ITE",2017-01-09,Secretary,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual - SFC,107,Nets,1712,2.2
+2019/1101-010/023,Ms,F,Singaporean,Y, ,13/11/1994,Diploma,"Advanced Diploma in Tourism, Hospitality and Event Management, MDIS",2016-01-09,Admin Assistant,10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual,107,Nets,1712,3.1
+2019/1101-010/024,Ms,F,Singaporean,Y, ,10/02/1983,Diploma,"Diploma in Multimedia Software Engineering, Singapore Polytechnic",2015-09-09,Senior Assistant (Tenant Administration),10th,2019-07-09,2020-10-08 00:00:00,Part-Time,Individual-SFC,107,Nets,1712,1.7
+2019/1101-011/025,Ms,F,Singaporean,Y, ,16/02/1969,Certificate,"O' levels, Diploma in Business Management (distance learning), Glasgow, Dublin",2018-10-10,Admin Assistant,11th,2019-09-10,2020-12-09 00:00:00,Part-Time,Sponsored,107,OCBC 000385,1604,3.3
+2019/1101-011/026,Ms,F,Singaporean,Y,,18/04/1992,Certificate,"Sec 2, WPLN (Reading, Speaking, Listening, Writing) & Numeracy",2016-11-10,Admin Assistant,11th,2019-09-10,2020-12-09 00:00:00,Part-Time,Individual - SFC,107,Nets,1212,3.0
+2019/1101-011/027,Ms,F,Malaysian (PR),Y, ,16/06/1978,Certificate,"Certified Accounting Technicians (CATS), ACCA, SPM",2018-09-10,Senior HR Officer,11th,2019-09-10,2020-12-09 00:00:00,Part-Time,Individual - SFC,107,POSB 743523,1212,3.7
+2019/1101-011/028,Ms,F,Chinese (PR),Y,,19/10/1987,Diploma,"Diploma of Hospitality Management, Australian Academy of Hospitality Management",2016-12-10,HR Executive,11th,2019-09-10,2020-12-09 00:00:00,Part-Time,Sponsored,107,OCBC 484773,1604,3.0
+2019/1101-011/029,Ms,F,Singaporean,Y,,30/04/1973,Certificate,"Certified Accounting Technicians (CATS), ACCA, 'O' levels",2016-09-10,-,11th,2019-09-10,2020-12-09 00:00:00,Part-Time,Individual,107,UOB 042724,1712,2.9
+2019/1101-012/030,Mr,M,Singaporean,Y,,12/06/1977,Certificate,"NTC 2, N Level, WPLN",2016-02-05,Manager,12th,2019-11-05,2021-02-04 00:00:00,Part-Time,Individual,107,NETS,1712,2.1
+2019/1101-012/031,Ms,F,Singaporean,Y,,27/04/1976,Certificate,"O' level, 'N' Level, WPLN",2016-08-05,-,12th,2019-11-05,2021-02-04 00:00:00,Part-Time,Individual,107,NETS,1712,3.1
+2019/1101-012/032,Ms,F,Singaporean,Y,,05/02/1986,Diploma,"Diploma in Masss Communication, MDIS",2018-07-05,Relationship and Marketing Executive,12th,2019-11-05,2021-02-04 00:00:00,Part-Time,Individual - SFC,107,NETS,1712,3.5
+2019/1101-012/033,Ms,F,Singaporean,Y,,03/01/1980,Certificate,N level,2018-07-05,Secretary,12th,2019-11-05,2021-02-04 00:00:00,Part-Time,Individual ,107,NETS,1712,3.0
+2020/2101-110/001,Ms,F,Singaporean,Y, ,02/12/1993,Certificate,"Nitec in Hair Fashion & Design, ITE",2017-11-08,Administrative Assistant,110th,2020-06-08,2021-03-05 00:00:00,Part-Time,Individual-SFC,107,Giro,2996,3.4
+2020/2101-110/002,Ms,F,Singaporean,Y, ,06/11/1974,Certificate,"SPM, LCCI",2018-07-08,"Business Support Manager, APAC",110th,2020-06-08,2021-03-05 00:00:00,Part-Time,Individual ,107,Giro,2996,3.4
+2020/2101-111/003,Ms,F,Singaporean,Y, ,27/05/1989,Diploma,"Diploma in Commerce (Biz Admin), Kaplan / Diploma in Biz Admin (Business, Travel & Tourism), Newcastle School of Management",2019-06-28,Team Assistant,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Sponsored,107,Giro,2696,3.0
+2020/2101-111/004,Ms,F,Singaporean,Y,,18/04/1992,Certificate,"Foundation Certificate in HRM, SHRI Academy",2019-01-28,-,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Individual - waived App Fee,Waived,NETS,2996,2.4
+2020/2101-111/005,Ms,F,Singaporean,Y,,22/09/1992,Degree,"Bachelor of Business (Marketing), RMIT",2018-08-28,APAC HR Specialist,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Sponsored,107,Giro,2696,2.8
+2020/2101-111/006,Ms,F,Singaporean,Y,,18/10/1988,Certificate,O' level,2018-03-28,Snr Client Service Executive,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,107,Giro,1496,3.3
+2020/2101-111/007,Ms,F,Singaporean,Y,,11/12/2001,Certificate,"Nitec in Electronics, Computer Networking & Communications, ITE",2019-06-28,HR Intern,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,107,Giro,1996,3.3
+2020/2101-111/008,Ms,F,Singaporean,Y,,18/12/1969,Certificate,"Basic Certificate in HRM, SHRI",2017-04-28,"Executive, Corporate Services",111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,107,Giro,1496,3.0
+2020/2101-111/009,Ms,F,Singaporean,Y,,12/11/1987,Certificate,O' level,2018-08-28,Admin Executive,111th,2020-09-28,2021-06-23 00:00:00,Part-Time,Individual - SFC,107,Giro,2496,3.3
+2020/2101-112/010,Ms,F,Singaporean,Y,,13-Feb-1984,Degree,"Bachelor of Commerce (Management and Marketing), Curtin University of Technology",2017-05-16,Manager (Engagement),112th,2020-11-16,2021-08-13 00:00:00,Part-Time,Individual - SFC,107,Giro,1996,1.5
+2020/2101-112/011,Ms,F,Singaporean,Y,,13-Jul-1987,Degree,"Bachelor of Science in Business, SUSS",2017-01-16,Executive,112th,2020-11-16,2021-08-13 00:00:00,Part-Time,Individual - SFC,107,Giro,1996,2.5
+2020/2101-112/012,Ms,F,Singaporean,Y,,15-Jul-1994,Diploma,"Diploma in Integrated Events Management, Republic Polytechnic",2018-09-16,"Associate, HR & General Affairs",112th,2020-11-16,2021-08-13 00:00:00,Part-Time,Individual - SFC,107,Giro,1996,3.4
+2019/2101-106/001,Ms,F,Malaysian (PR), ,Y,08/07/1984,Degree,"Bachelor of Science (HRD), Universiti Teknologi Malaysia",2016-04-04,Manager,106th,2019-03-04,2019-12-03 00:00:00,Part-Time,Indivodual,107,NETS,2996,3.1
+2019/2101-106/002,Ms,F,Chinese (PR), ,Y,08/09/1987,Certificate,"Certificate in Computer, Jiangsu Vocational Middle School, Certificate in Grammar & Writing Intermediate Level, Ascend Education Centre",2017-10-04,HR Assistant,106th,2019-03-04,2019-12-03 00:00:00,Part-Time,Individual,107,GIRO,2996,3.0
+2019/2101-107/003,Ms,F,Singaporean,Y, ,19/06/1981,Diploma,"Diploma in Mechatronic Engineering, Nee Ann Polytechnic",2016-12-24,HR Manager,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Sponsored,107,DBS 346889,2696,3.3
+2019/2101-107/004,Ms,F,Singaporean,Y, ,28/09/1999,Certificate,"Higher Nitec in Hospitality Operations, ITE",2017-09-24,Admin Executive,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Individual,107,NETS,2996,3.3
+2019/2101-107/005,Ms,F,Singaporean,Y,,19/10/1967,Certificate,O' level,2015-07-24,"Senior Vice President, Gaming Division",63rd,2019-04-24,2020-01-23 00:00:00,Part-Time,Individual - waived App Fee,Waived,NETS,2996,2.4
+2019/2101-107/006,Ms,F,Singaporean,Y, ,10/04/1995,Certificate,"Higher Nitec in Business Studies (Service Management), ITE",2017-04-24,Admin Assistant,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Sponsored   ,107,UOB 480958,2696,2.4
+2019/2101-107/007,Ms,F,Singaporean,Y, ,24/05/1999,Certificate,O' levels,2018-04-24,-,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Individual,107,GIRO,2996,3.0
+2019/2101-107/008,Ms,F,Singaporean,Y, ,12/04/2001,Certificate,O' levels,2015-05-24,-,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Individual,107,NETS,2996,2.8
+2019/2101-107/009,Ms,F,Singaporean,Y, ,21/10/1987,Certificate,"WSQ Higher Certificate in Human Resources, HCS ",2016-03-24,-,107th,2019-04-24,2020-01-23 00:00:00,Part-Time,Individual - SFC,107,GIRO,2496,1.9
+2019/2101-108/010,Mr,M,Singaporean,Y, ,08/04/1994,Certificate,"Nitec in Fitness Training, ITE",2015-09-05,HR Executive (TA Operations),108th,2019-08-05,2020-05-04 00:00:00,Part-Time,Individual - SFC,107,NETS,2996,3.0
+2019/2101-108/011,Ms,F,Malaysian, ,Y,18/02/1986,Certificate,"SPM, Certificate in Business Studies (Business Administration) Level IV, Tunku Abdul Rahman College",2016-08-05,HR Executive  ,108th,2019-08-05,2020-05-04 00:00:00,Part-Time,Sponsored - no SDF,107,UOB 000073,2996,3.1
+2019/2101-108/012,Ms,F,Singaporean,Y, ,09/11/1979,Certificate,"SPM, LCCI Level 2 Certificate in Book-keeping and Accounts / LCCI Level 3 Business Statistics",2016-12-05,HR Executive  ,108th,2019-08-05,2020-05-04 00:00:00,Part-Time,Individual  ,107,UOB Cr Card - 12 months,2996,2.9
+2019/2101-108/013,Ms,F,Singaporean,Y, ,24/12/1994,Diploma,"Diploma in Financial Informatics, Nanyang Polytechnic, CPA, SHRI Academy",2018-03-05,HR Administrator,108th,2019-08-05,2020-05-04 00:00:00,Part-Time,Sponsored,107,GIRO,2696,3.9
+2019/2101-108/014,Ms,F,Singaporean,Y,,25/05/1976,Certificate,"O' level, Foundation Certificate in Human Resource Management, SHRI Academy",2018-04-05,Admin Assistant,108th,2019-08-05,2020-05-04 00:00:00,Part-Time,Individual,Waived,Waived,2996,2.8
+2019/2101-109/015,Mr ,M,Singaporean,Y, ,23/04/1998,Certificate,A level,2018-05-25,Admin Support Assistance,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual,107,OCBC 923215,2996,3.7
+2019/2101-109/016,Ms,F,Filipino, ,Y,23/12/1986,Degree,"Bachelor of Arts (Mass Communication), New Era University, Quezon City, Philippines",2018-06-25,HR Executive,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Sponsored - no SDF,107,DBS 002211,2996,3.5
+2019/2101-109/017,Ms,F,Malaysian, ,Y,09/12/1992,Certificate,SPM,2018-10-25,HR Administrator,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual,107,Giro,2996,3.0
+2019/2101-109/018,Mr ,M,Singaporean,Y,,10/10/1998,Certificate,O' level,2017-10-25,Service Crew,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual,107,Nets,2996,2.7
+2019/2101-109/019,Ms,F,Singaporean,Y, ,30/11/1983,Certificate,"N Level, Foundation Certificate in HRM, SHRI Academy",2016-09-25,Sales & Operation Executive,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Sponsored,Waived,Waived,2696,2.4
+2019/2101-109/021,Ms,F,Singaporean,Y, ,14/07/1987,Certificate,O level,2018-12-25,Business Development Executive,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual,107,Nets,2996,3.9
+2019/2101-109/022,Ms,F,Singaporean,Y, ,30/11/1978,Certificate,"Certificate in Office Skills, ITE",2018-05-25,Executive,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual  ,107,Giro,2996,3.0
+2019/2101-109/023,Ms,F,Malaysian, ,Y,11/05/1998,Certificate,SPM,2017-02-25,PR Officer,109th,2019-11-25,2019-09-28 00:00:00,Part-Time,Individual,107,Nets,2996,3.2
+2020/2102-068/001,Ms,F,Singaporean,Y,,20/01/1993,Degree,"Bachelor of Science (Business Management), UOL",2017-08-22,Executive  ,68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1388,3.3
+2020/2102-068/002,Ms,F,Singaporean,Y,,11/04/1976,Diploma,"Diploma in Business Administration (Accounting & Finance), PSB Academy",2019-01-22,"Snr Executive, Accounts",68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1415,3.2
+2020/2102-068/003,Ms,F,Singaporean,Y,,10/09/1973,Diploma,LCCI Diploma in Accounting (Third Level),2019-03-22,Snr Accounts Officer,68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1415,3.8
+2020/2102-068/004,Ms,F,Singaporean,Y,,27/12/1988,Diploma,"Diploma in Sales & Marketing, MIS",2017-04-22,"Executive, Student Care Services",68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1415,2.0
+2020/2102-068/005,Ms,F,Malaysian (PR),Y,,11/11/1992,Degree,"Bachelor of Engineering, Universiti Malaysia Perlis",2017-06-22,Device Engineer,68th,2020-07-22,21/09/2020,Part-Time,Individual,107,Nets,1388,2.9
+2020/2102-068/006,Ms,F,Singaporean,Y, ,09/11/1985,Certificate,"Certificate in Opticianry Practice, Republic Poly, WPLN",2017-04-22,-,68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1388,1.8
+2020/2102-068/007,Ms,F,Singaporean,Y, ,26/08/1989,Certificate,O level,2017-07-22,-,68th,2020-07-22,21/09/2020,Part-Time,Individual,107,Nets,1388,2.8
+2020/2102-068/008,Ms,F,Singaporean,Y,,17/12/1980,Degree,"Bachelor of Human Resource Management, SUSS",2018-10-22,HR Executive,68th,2020-07-22,21/09/2020,Part-Time,Sponsored  ,107,Nets,1495,3.2
+2020/2102-068/009,Ms,F,Malaysian (PR),Y,,24/11/1992,Degree,"Bachelor of Economics, University of Malaya",2019-06-22,HR Executive,68th,2020-07-22,21/09/2020,Part-Time,Sponsored  ,107,Nets,1388,2.8
+2020/2102-068/010,Mr,M,Singaporean,Y,,26/02/1990,Degree,"Bachelor of Science  in Chemical Engineering, Singapore Institute of Technology",2018-06-22,Operations Executive,68th,2020-07-22,21/09/2020,Part-Time,Individual - SFC,107,Nets,1388,3.1
+2020/2102-068/011,Ms,F,Chinese (PR),Y,,16-07-1991,Degree,"Bachelor of Science (Nursing), Curtin University of Technology &Bachelor of Business (HRM), Murdoch University",2019-02-22,Staff Nurse,68th,2020-07-22,21/09/2020,Part-Time,Individual   ,107,Nets,1388,3.8
+2020/2102-069/012,Mr,M,Singaporean,Y, ,15/10/1969,Degree,"Bachelor of Accountancy, jointly offered by NUS/NTU",2017-09-30,Senior Manager,69th,2020-09-30,20/11/2020,Part-Time,Sponsored ,107,Nets,1388,2.5
+2020/2102-069/013,Ms,F,Singaporean,Y, ,07/07/1994,Degree,"Bachelor of Science in Business Management, University of Birmingham ",2016-11-30,Assistant Executive (Payroll),69th,2020-09-30,20/11/2020,Part-Time,Individual - SFC,107,Nets,1388,1.7
+2020/2102-069/014,Ms,F,Singaporean,Y, ,17/10/1968,Certificate,"FCHRM, SHRI Academy",2019-08-30,Administrator,69th,2020-09-30,20/11/2020,Part-Time,Individual - waived App Fee,107,Nets,888,3.3
+2020/2102-069/015,Mr,M,Singaporean,Y, ,05/05/1996,Diploma,"Diploma in Events Management, Kaplan",2018-10-30,-,69th,2020-09-30,20/11/2020,Part-Time,Individual  ,107,Nets,1495,3.4
+2020/2102-069/016,Mrs,F,Singaporean,Y, ,24/06/1970,Diploma,"Diploma in Business, Marketing Institute of Singapore",2019-02-28,Admin Support Executive,69th,2020-09-30,20/11/2020,Part-Time,Sponsored,107,Giro,1388,2.6
+2020/2102-069/017,Ms,F,Malaysian (PR),Y, ,14/02/1994,Degree,"Bachelor of Communications in Public Relations, Universiti Tunku Abdul Rahman",2018-03-30,Recruitment Consultant,69th,2020-09-30,20/11/2020,Part-Time,Individual  ,107,Nets,1388,2.3
+2020/2102-069/018,Ms,F,Malaysian (PR),Y, ,02/12/1989,Certificate,SPM,2019-07-30,Payroll Specialist,69th,2020-09-30,20/11/2020,Part-Time,Sponsored,107,Nets,1308,3.1
+2020/2102-069/019,Ms,F,Singaporean,Y, ,05/12/1984,Diploma,"Specialist Diploma in HRM, Nanyang Polytechnic",2017-02-28,-,69th,2020-09-30,20/11/2020,Part-Time,Individual,107,Nets,1495,2.8
+2020/2102-069/020,Ms,F,Singaporean,Y, ,13/02/1977,Diploma,"Graduate Diploma in Business Administration (Operations & Logistics Management), SIM",2017-10-30,-,69th,2020-09-30,20/11/2020,Part-Time,Individual - SFC + $1000 SCHOLARSHIP,107,Nets,1495,3.0
+2020/2102-069/021,Ms,F,Singaporean,Y, ,07/11/1971,Graduate Diploma,"Graduate Diploma in HRM, SHRI",2017-02-28,HR Manager,69th,2020-09-30,20/11/2020,Part-Time,Individual ,107,Nets,1415,1.9
+2020/2102-069/022,Ms,F,Singaporean,Y, ,01/04/1961,Certificate,"O level, Private Secretary Certificate, LCCI",2019-02-28,Secretary,69th,2020-09-30,20/11/2020,Part-Time,Sponsored,107,Nets,1388,2.6
+2020/2102-070/023,Ms,F,Malaysian, ,Y,05/12/2000,Certificate,SPM,2017-10-23,Admin Asst,70th,2020-11-23,22/01/2020,Part-Time,Sponsored-no SDF,107,Nets,1388,3.1
+2020/2102-070/024,Ms,F,Singaporean,Y, ,27/08/1977,Diploma,"Diploma in Compensation & Benfits Management, SHRI Academy",2019-09-23,Office Dept Head,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,3.7
+2020/2102-070/025,Ms,F,Malaysian (PR),Y, ,02/09/1992,Diploma,Diploma in Accountancy,2017-12-23,Account Senior,70th,2020-11-23,22/01/2020,Part-Time,Individual,107,Nets,1388,2.4
+2020/2102-070/026,Ms,F,Singaporean,Y, ,06/09/1992,Certificate,N Level,2019-10-23,Admin Officer,70th,2020-11-23,22/01/2020,Part-Time,Sponsored  ,107,Nets,1388,3.1
+2020/2102-070/027,Ms,F,Singaporean,Y, ,17/01/1988,Degree,"Bachelor of Science in Banking & Finance, UOL",2018-08-23,Senior HR Executive,70th,2020-11-23,22/01/2020,Part-Time,Sponsored  ,107,Nets,1388,2.6
+2020/2102-070/028,Mr,M,Singaporean,Y, ,13/09/1987,Degree,"Bachelor of Arts, NUS",2018-01-23,"Officer, Administration and Operations",70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,888,3.1
+2020/2102-070/029,Mr,M,Singaporean,Y, ,20/01/1988,Degree,"Bachelor of Technology (Industrial & Management Engineering), NUS",2017-12-23,HR Executive,70th,2020-11-23,22/01/2020,Part-Time,Sponsored - no SDF,107,Nets,1495,2.8
+2020/2102-070/030,Ms,F,Singaporean,Y, ,16/02/1991,Degree,Postgraduate Diploma in Strategic Human Capital Management,2019-08-23,Human Reosurce Executive,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,3.8
+2020/2102-070/031,Ms,F,Singaporean,Y, ,09/06/1972,Diploma,"Professional Diploma in Leadership and People Management, SSG / 'A' level",2017-12-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,3.3
+2020/2102-070/032,Mr,M,Singaporean,Y, ,04/12/1987,Degree,"Bachelor of Commerce in Human Resource Management, Murdoch University",2017-01-23,HR Executive,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1308,1.7
+2020/2102-070/033,Ms,F,Malaysian, ,Y,28/12/1998,Certificate,SPM,2017-11-23,Receptionist,70th,2020-11-23,22/01/2020,Part-Time,Sponsored - no SDF,107,Nets,1495,2.4
+2020/2102-070/034,Ms,F,Singaporean,Y, ,12/07/1973,Diploma,"Diploma in Integrated Logistics Management, The Logistics Academy Pte Ltd",2018-07-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Giro,1495,2.9
+2020/2102-070/035,Ms,F,Singaporean,Y, ,12/10/1978,Diploma,"Diploma in Product & Industrial Design, Temasek Polytechnic",2017-12-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1415,3.1
+2020/2102-070/036,Ms,F,Indian,Y, ,16/03/1980,Master,"Master of Business Administration, Anna University, India ",2019-01-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual,107,Nets,1388,2.8
+2020/2102-070/037,Ms,F,Singaporean,Y, ,21/09/1990,Degree,"Bachelor of Business, University of Tasmania",2017-09-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,1.9
+2020/2102-070/038,Ms,F,Singaporean,Y,,12/01/1983,Certificate,N level,2017-06-23,HR Assistant,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,1.9
+2020/2102-070/039,Ms,F,Singaporean,Y, ,23/01/1974,Degree,"Bachelor of Communication, SIM University",2017-05-23,Senior Manager,70th,2020-11-23,22/01/2020,Part-Time,Individual,107,Nets,1388,1.8
+2020/2102-070/040,Ms,F,Singaporean,Y, ,22/05/1978,Degree,"Bachelor of Business Administration, University of South Australia",2017-05-23,HR Manager,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,2.8
+2020/2102-070/041,Ms,F,Singaporean,Y, ,04/02/1993,Degree,"Bachelor of Science in Accounting & Finance, UOL",2019-06-23,-,70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1388,3.6
+2020/2102-070/042,Mr,M,Singaporean,Y, ,23/10/1985,Degree,"Graduate Diploma in HRM, MDIS",2017-03-23,"Assistant Manager, Human Resources",70th,2020-11-23,22/01/2020,Part-Time,Individual - waived App Fee,107,Nets,888,1.5
+2020/2102-070/043,Ms,F,Singaporean,Y, ,18/11/1983,Certificate,"NTC-2 Chemical Process Technology, ITE",2017-05-23,"Associate, HR & Payroll",70th,2020-11-23,22/01/2020,Part-Time,Individual - SFC,107,Nets,1495,1.6
+2019/2102-063/001,Ms,F,Singaporean,Y,,10/02/1969,Degree,"Bachelor of Accountancy, NUS",2015-08-18,-,63rd,2019-02-18,15/04/2019,Part-Time,Individual,107,Nets,1388,3.0
+2019/2102-063/002,Ms,F,Singaporean,Y,,22/07/1992,Certificate,O' level; Certificate for Emloyment Intermediaries (CEI) Basic,2017-12-18,Consultant,63rd,2019-02-18,15/04/2019,Part-Time,Individual - SFC,107,Nets,1388,3.9
+2019/2102-063/003,Ms,F,Singaporean,Y,,25/07/1982,Diploma,"Diploma in Human Resource Management, PSB, ACTA",2016-06-18,-,63rd,2019-02-18,15/04/2019,Part-Time,Individual - SFC,107,Nets,1308,2.6
+2019/2102-063/004,Ms,F,Filipino (PR),Y,,30/11/1962,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",2015-03-18,Admin Executive,63rd,2019-02-18,15/04/2019,Part-Time,Individual,107,Nets,1495,2.6
+2019/2102-063/005,Ms,F,Singaporean,Y,,19/10/1967,Certificate,O' level,2017-05-18,"Senior Vice President, Gaming Division",63rd,2019-02-18,15/04/2019,Part-Time,Individual - SFC,107,Nets,1495,3.0
+2019/2102-063/006,Ms,F,Singaporean,Y,,05/07/1971,Degree,"BSc in Business and Management Studies, University of Bradford",2016-06-18,Snr Admin Executive,63rd,2019-02-18,15/04/2019,Part-Time,Sponsored,107,Nets,1415,2.3
+2019/2102-063/007,Ms,F,Singaporean,Y,,22/03/1983,Diploma,"Diploma in Maritime Studies, Institute of Maritime & Business Management (IMBM)",2016-05-18,-,63rd,2019-02-18,15/04/2019,Part-Time,Individual,107,Nets,1388,3.1
+2019/2102-063/008,Ms,F,Singaporean,Y,,11/11/1979,Certificate,O' level,2016-03-18,-,63rd,2019-02-18,15/04/2019,Part-Time,Individual,107,Nets,1388,2.8
+2019/2102-063/009,Ms,F,Singaporean,Y,,29/04/1992,Certificate,"Nitec in Product Design, ITE",2016-03-18,Waitress,63rd,2019-02-18,15/04/2019,Part-Time,Individual,107,Nets,1388,2.3
+2019/2102-064/010,Ms,F,Singaporean,Y,,11/08/1987,Diploma,"Diploma in Business & Human Resource Management, SHRI",2017-02-06,-,64th,2019-05-06,05/07/2019,Part-Time,Individual,107,Nets,1388,3.3
+2019/2102-064/011,Ms,F,Singaporean,Y,,10/07/1993,Degree,"Bachelor of Commerce in HRM, Murdoch University",2017-01-06,HR Executive,64th,2019-05-06,05/07/2019,Part-Time,Indvidual - SFC,107,Nets,1388,2.9
+2019/2102-064/012,Ms,F,Singaporean,Y, ,04/07/1988,Diploma,"Diploma in Multimedia & Infocomm Technology, Nanyang Polytechnic",2015-09-06,Accounts Executive,64th,2019-05-06,05/07/2019,Part-Time,Individual - SFC,107,Nets,1388,3.1
+2019/2102-064/013,Ms,F,Vietnamese, ,Y,24/07/1989, , ,2016-06-06,Accounts Executive,64th,2019-05-06,05/07/2019,Part-Time,Individual,107,Nets,888,2.5
+2019/2102-064/014,Ms,F,Singaporean,Y, ,06/01/1981,Diploma,"Diploma in Business Administration (HRM), PSB Academy ",2016-04-06,HR & Admin,64th,2019-05-06,05/07/2019,Part-Time,Individual - SFC,107,Nets,1495,3.0
+2019/2102-064/015,Ms,F,Malaysian (PR), ,Y,08/04/1984,Degree,"Bachelor of Arts in HRM with Organisational Psychology, Edinburgh Napier University",2016-09-06,Senior HR,64th,2019-05-06,05/07/2019,Part-Time,Sponsored,107,Nets,1388,2.2
+2019/2102-064/016,Ms,F,Singaporean,Y,,18/07/1993,Degree,"Bachelor of Arts in Business and Finance, Coventry University",2017-04-06,-,64th,2019-05-06,05/07/2019,Part-Time,Individual,107,Nets,1388,2.2
+2019/2102-064/017,Ms,F,Singaporean,Y,,11/12/1993,Degree,"Bachelor of Science in Mathematics and Economics, UOL",2015-08-06,HR Executive,64th,2019-05-06,05/07/2019,Part-Time,Individual,107,Nets,1308,1.5
+2019/2102-064/018,Mr,M,Singaporean,Y,,10/12/1981,Degree,"Bachelor of Commerce, Deakin University",2017-07-06,Manager,64th,2019-05-06,05/07/2019,Part-Time,Sponsored,107,Nets,1495,3.4
+2019/2102-064/019,Ms,F,Singaporean,Y,,02/10/1984,Diploma,"Diploma in Business Administration (HRM), PSB Academy / CHRM, SHRI / Nitec in Office Skills, ITE",2018-06-06,Center Administrator,64th,2019-05-06,05/07/2019,Part-Time,Individual,107,Nets,1495,3.9
+2019/2102-064/020,Ms,F,Singaporean,Y, ,04/11/1973,Certificate,"Certificate in Office Skills, ITE",2016-07-06,-,64th,2019-05-06,05/07/2019,Part-Time,Individual - SFC,107,Nets,1415,3.4
+2019/2102-064/021,Ms,F,Singaporean,Y, ,11/03/1983,Diploma,"Diploma in Electrical Engineering, Singapore Polytechnic",2015-09-06,"Team Lead, Payroll & Billing",64th,2019-05-06,05/07/2019,Part-Time,Individual - SFC,107,Nets,1388,2.5
+2019/2102-064/022,Ms,F,Singaporean,Y, ,21/07/1982,Diploma,"Diploma in Electronics, Computer & Communication Engineering, Singapore Polytechnic",2016-05-06,Officer,64th,2019-05-06,05/07/2019,Part-Time,Individual - SFC,107,Nets,1388,2.2
+2019/2102-065/023,Ms,F,Singaporean,Y,,05/08/1965,Certificate,O' level,2017-02-22,Senior Executive,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - no SDF,107,Nets,1388,3.1
+2019/2102-065/024,Ms,F,Singaporean,Y,,13/01/1972,Degree,"Bachelor of Commerce, University of Mumbai",2016-10-22,-,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,2.9
+2019/2102-065/025,Ms,F,Indian (PR),Y,,13/03/1977,Degree,-,2015-08-22,-,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,2.8
+2019/2102-065/026,Ms,F,Singaporean,Y,,16/10/1986,Diploma,"Diploma in Electrical & Computer Control Engineering, Singapore Polytechnic / Diploma in Social Service, SSTI / CHRM, SHRI Academy",2016-06-22,HR Assistant,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,2.2
+2019/2102-065/027,Ms,F,Indian  , ,Y,20/05/1982,Master,"Master of Business Administration (HR), Amity University, India",2018-08-22,-,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,888,3.1
+2019/2102-065/028,Ms,F,Singaporean,Y,,28/11/1983,Diploma,"Diploma in Business Administration, PSB Academy",2016-04-22,HR & Admin Manager,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - SDF,107,Nets,1495,2.2
+2019/2102-065/029,Ms,F,Filipino,,Y,13/10/1973,Degree,"Bachelor of Business Administration, St Paul College of Dumaguete City, Philippines",2018-01-22,Senior Administrative Executive,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,3.2
+2019/2102-065/030,Ms,F,Malaysian (PR),,Y,28/02/1985,Diploma,"Diploma in Business Administration (HRM), PSB Academy",2016-01-22,Human Resource Administrator,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - SDF,107,Nets,1388,3.1
+2019/2102-065/031,Ms,F,Malaysian (PR),,Y,23/04/1993,Degree,"Bachelor of Business Administration (Honours), Universiti Tunku Abdul Rahman",2018-03-22,HR Executive,65th,2019-07-22,20/09/2019,Part-Time,Sponsored,107,Nets,1308,2.8
+2019/2102-065/032,Ms,F,Singaporean,Y,,16/09/1967,Certificate,A' level,2017-02-22,-,65th,2019-07-22,20/09/2019,Part-Time,Individual - SFC,107,Nets,1495,2.2
+2019/2102-065/033,Ms,F,Singaporean,Y,,02/07/1974,Diploma,"Advanced Diploma in Business Administration, University of Technology Sydney/IBMEC",2015-08-22,Assistant Manager (Admin Support),65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1495,1.7
+2019/2102-065/034,Ms,F,Singaporean,Y,,09/03/1992,Degree,"Bachelor of Science in Business, University of London",2016-08-22,HR Officer,65th,2019-07-22,20/09/2019,Part-Time,Individual - SFC,107,Nets,1415,2.2
+2019/2102-065/035,Ms,F,Singaporean,Y, ,16/10/1977,Diploma, ,2016-12-22,HR/Admin,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - SDF,107,Nets,1388,2.8
+2019/2102-065/036,Ms,F,Myanmar,,Y,22/02/1989,Diploma,"Diploma in Accountancy, Kaplan Higher Education Institute",2018-04-22,Admin cum Payroll Officer,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,3.7
+2019/2102-065/037,Ms,F,Indian (PR),,Y,24/02/1984,Master,"MBA, Mangalore University",2016-06-22,-,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1388,2.5
+2019/2102-065/038,Ms,F,Singaporean,Y, ,07/06/1979,Degree,"Bachelor of Arts in Human Resource Management with Organisational Psychology, SHRI Academy",2016-03-22,Training Coordinator,65th,2019-07-22,20/09/2019,Part-Time,Individual - SFC,107,Nets,1388,1.9
+2019/2102-065/039,Ms,F,Chinese (PR),,Y,18/07/1983,Degree,"Bachelor of Business Administration, Xi'an Shiyou University, China",2017-04-22,HR Executive,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - no SDF,107,Nets,1388,2.3
+2019/2102-065/040,Ms,F,Singaporean,Y, ,01/12/1992,Degree,"Bachelor of Arts in Accounting & Financial Management, The University of Sheffield",2016-01-22,Client Accountant,65th,2019-07-22,20/09/2019,Part-Time,Sponsored,107,Nets,1388,3.1
+2019/2102-065/041,Ms,F,Singaporean,Y, ,18/08/1981,Diploma,"Diploma in Business & HRM, SHRI",2017-01-22,HR & Admin Officer,65th,2019-07-22,20/09/2019,Part-Time,Individual - SFC,107,Nets,888,2.9
+2019/2102-065/042,Ms,F,Indian (PR), ,Y,23/03/1984,Degree,"Bachelor of Science (Agriculture), Kerala Agriculture University",2018-06-22,Corporate Service Executive,65th,2019-07-22,20/09/2019,Part-Time,Individual,107,Nets,1495,3.7
+2019/2102-065/043,Ms,F,Singaporean,Y, ,03/12/1991,Degree,"Bachelor of Commerce in HRM,   Murdoch University",2015-11-22,Senior Eexcutive,65th,2019-07-22,20/09/2019,Part-Time,Sponsored - no SDF,107,Nets,1388,1.5
+2019/2102-066/044,Ms,F,Singaporean,Y, ,17/03/1967,Certificate,A' level,2016-05-25,-,66th,2019-09-25,22/11/2019,Part-Time,Individual - SFC,107,Nets,1388,2.0
+2019/2102-066/045,Ms,F,Singaporean,Y, ,15/01/1984,Diploma,"Diploma in Accountancy, Ngee Ann Polytechnic",2018-04-25,Accountant,66th,2019-09-25,22/11/2019,Part-Time,Individual-SFC,107,Nets,1308,3.9
+2019/2102-066/046,Ms,F,Malaysian,,Y,04/10/1994,Diploma,Diploma in Commerce (Human Resource Management),2016-04-25,HR Assistant,66th,2019-09-25,22/11/2019,Part-Time,Sponsored - no SDF,107,Nets,1495,2.5
+2019/2102-066/047,Ms,F,Singaporean,Y, ,02/12/1965,Diploma,"Diploma in Business Adminsitration, Singapore Polytechnic",2015-10-25,Snr HR Executive,66th,2019-09-25,22/11/2019,Part-Time,Sponsored  ,107,Nets,1495,2.8
+2019/2102-066/048,Ms,F,Singaporean,Y, ,05/09/1965,Diploma,"Diploma in Personnel Management, National Productivity Board ",2018-09-25,Snr HR Executive,66th,2019-09-25,22/11/2019,Part-Time,Sponsored  ,107,Nets,1415,3.5
+2019/2102-066/049,Ms,F,Filipino,,Y,09/05/1983,Degree,"Bachelor of Science in Psychology, Lyceum of the Philippines",2016-12-25,Labour Admin Executive,66th,2019-09-25,22/11/2019,Part-Time,Individual,107,Nets,1388,3.2
+2019/2102-066/050,Ms,F,Filipino,,Y,05/12/1983,Degree,"Bachelor in Banking and Finance, Polytechnic University of the Philippines",2017-01-25,HR Payroll Analyst,66th,2019-09-25,22/11/2019,Part-Time,Individual,107,Nets,1388,3.4
+2019/2102-066/051,Ms,F,Filipino, ,Y,27/09/1978,Degree,"Bachelor of Science in Accountancy, University of Santo Tomas",2017-10-25,Payroll,66th,2019-09-25,22/11/2019,Part-Time,Individual,107,Nets,1388,2.9
+2019/2102-066/052,Ms,F,Singaporean,Y, ,10/08/1981,Diploma,"Diploma in Human Resource Management, PSB Academy",2016-03-25,People Ops Specialist - APAC,66th,2019-09-25,22/11/2019,Part-Time,Individual-SFC,107,Nets,1388,2.5
+2019/2102-067/053,Ms,F,Singaporean,Y, ,27/11/1986,Degree,"Bachelor of Communication, Murdoch University",2017-12-25,Editor,67th,2019-11-25,17/01/2020,Part-Time,Individual - SFC,107,Nets,1388,2.8
+2019/2102-067/054,Ms,F,Singaporean,Y, ,18/04/1990,Certificate,"Certificate in HRM, SHRI Academy",2016-01-25,HRM,67th,2019-11-25,17/01/2020,Part-Time,Individual,107,Nets,1388,1.6
+2019/2102-067/055,Ms,F,Singaporean,Y, ,21/10/1991,Degree,"Bachelor of Arts in HRM, Kingston University",2017-11-25,HR Supervisor,67th,2019-11-25,17/01/2020,Part-Time,Individual - SFC,107,Nets,1388,2.5
+2019/2102-067/056,Ms,F,Indian, ,Y,08/06/1981,Degree,"Bachelor of Bank Management, University of Madras",2018-05-25,Account Manager,67th,2019-11-25,17/01/2020,Part-Time,Individual,107,Nets,1388,3.0
+2019/2102-067/057,Ms,F,Malaysian (PR), ,Y,06/09/1987,Degree,"Bachelor of Business Administration, Universiti Tunku Abdul Rahman",2017-09-25,Human Resource Officer,67th,2019-11-25,17/01/2020,Part-Time,Sponsored,107,Nets,1388,2.4
+2019/2102-067/058,Ms,F,China (PR), ,Y,31/10/1984,Master,"Master of Business Adminsitration, Southern Cross University",2016-01-25,HR & Admin Officer,67th,2019-11-25,17/01/2020,Part-Time,Individual,107,Nets,1388,2.2
+2020/5112-012/010,Ms,F,Singaporean,Y,,16/08/1988,Degree,"Bachelor of Business (Accountancy)/
+Royal Melbourne Institute of Technology",2017-07-30,Sr HR Associate,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,2.1
+2020/5112-012/011,Ms,F,Singaporean,Y,,14/03/1984,Degree,"Diploma in Business & Human Resource Management/
+Singapore Human Resource Management",2017-04-30,"Assistant Manager, HR Operations",12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,1.7
+2020/5112-012/012,Ms,F,Singaporean,Y,,16/08/1970,Postgraduate Diploma,"Postgraduate Diploma in Education (Specialisation in teaching at Secondary School level)/
+Nanyang Technological University",2019-08-30,Assistant Admin Manager,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,3.6
+2020/5112-012/013,Ms,F,Singaporean,Y,,20/03/1989,Degree,"Bachelor of Education with a minor in Department of Geography/
+National Taiwan Normal University",2019-06-30,Flight Stewardess,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,3.1
+2020/5112-012/014,Mr,M,Singaporean,Y,,08/06/1981,Diploma,"Diploma in Electronic & Computer Engineering/
+Ngee Ann Polytechnic",2017-05-30,Head of HR,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,1.9
+2020/5112-012/015,Ms,F,Singaporean,Y,,02/06/1994,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",2016-11-30,HR Analyst,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,1.6
+2020/5112-011/006,Ms,F,Singaporean,Y,,24/02/1982,Degree,"Degree of Bachelor of Engineering (Materials Engineering)/
+Nanyang Technological University",2019-08-21,ASSISTANT HR MANAGER,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,3.8
+2020/5112-011/007,Ms,F,Singaporean,Y,,07/05/1991,Degree,"Bachelor of Business (Management)/
+RMIT University",2018-07-21,HR Officer,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Giro,5803,2.2
+2020/5112-011/008,Ms,F,Singaporean,Y,,16/07/1985,Degree,"Bachelor of Arts/
+National University of Singapore",2018-08-21,HR Manager,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,2.2
+2020/5112-011/009,Mr,M,Singaporean,Y,,21/03/1992,Degree,"Bachelor of Business with Second Class Honours (Upper Division)/
+Nanyang Technological University",2017-03-21,Recruitment Consultant,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2020/5112-010/003,Mr,M,Singaporean,Y,,08/01/1991,Degree,"Bachelor of Business Administration (Accountancy) with Honours (Merit)/
+National University of Singapore",2018-06-20,"Senior Analyst, Compensation & Benefits",10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.4
+2020/5112-010/004,Mr,M,Malaysian(PR),Y,,31/10/1984,Degree,"Bachelor of Communications Major in Journalism; Major in Public Relations/
+Edith Cowan University",2019-02-20,Senior Manager,10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.2
+2020/5112-010/005,Ms,F,Singaporean,Y,,29/03/1983,Degree,"Bachelor of Business (Management)/
+Royal Melbourne Institute of Technology",2018-02-20,Senior HR Executive,10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Giro,5803,2.8
+2020/5112-009/001,Ms,F,Indian (PR),Y,,16/02/1984,Degree,"Bachelor of Arts (Honours)/
+University of Delhi",2016-09-10,HR Executive,9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,1.7
+2020/5112-009/002,Ms,F,Singaporean,Y,,17/07/1983,Degree,"Bachelor of Science (Consumer Science) Honours Second Class Upper/
+Universiti Putra Malaysia",2018-04-10,N.A.,9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,2.6
+2019/5112-008/013,Mr,M,Singaporean,Y,,22/01/1983,Degree,"Degree of Bachelor of Science with Honours in Biological Sciences/
+Nanyang Technological University",2017-12-20,N.A.,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.2
+2019/5112-008/014,Ms,F,Singaporean,Y,,17/10/1982,Degree,"Honours Degree of Bachelor of Science (Management)/
+National University of Ireland",2018-09-20,HR Manager,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2019/5112-008/015,Mr,M,Singaporean,Y,,27/03/1986,Master,"Master of Arts (Chinese Studies)/
+National University of Singapore",2016-06-20,Senior Recruitment Manager,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2019/5112-008/016,Ms,F,Chinese,Y,,06/08/1989,Degree,"Bachelor of Business (Accounting)/
+Murdoch University",2018-10-20,Admin Supervisor,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.2
+2019/5112-008/017,Ms,F,Singaporean,Y,,07/08/1974,Degree,"Bachelor of Business with Honours Class Two: I (International Business)/
+Universiti Malaysia Sabah",2016-08-20,Admin Manager,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
+2019/5112-008/018,Ms,F,Chinese (PR),Y,,07/09/1985,Degree,"Bachelor of Business (Economics and Finance)/
+RMIT University",2017-03-20,HR Executive,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.3
+2019/5112-007/007,Ms,F,Filipino,,Y,23/09/1975,Degree,"Bachelor in Tourism/
+Polytechnic University of The Philippines",2018-05-05,Human Resource Executive,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,3.0
+2019/5112-007/008,Ms,F,Singaporean,Y,,01/09/1983,Diploma,"Diploma in Business Administration/
+Systematic College Johor Bahru",2016-10-05,HR Specialist,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,3.2
+2019/5112-007/009,Ms,F,Myanmar,,Y,26/01/1984,Degree,"Degree of Bachelor of Development Studies/
+Yangon Institute of Economics",2017-10-05,Human Resource & Admin Manager,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Giro,5803,2.9
+2019/5112-007/010,Ms,F,Singaporean,Y,,11/04/1977,Degree,"Bachelor of Arts with Merit/
+National University of Singapore",2015-11-05,Senior HR Executive,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
+2019/5112-007/011,Ms,F,Singaporean,Y,,31/10/1969,Diploma,"Diploma in Commerce (Business Administration)/
+Kaplan Higher Education Institute",2016-05-05,Human Resource Director,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.2
+2019/5112-007/012,Ms,F,Singaporean,Y,,04/10/1993,Degree,"Bachelor of Commerce in Hospitality & Tourism Management and Human Resource Management/
+Murdoch University",2017-09-05,"Executive, Human Capital",7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2019/5112-006/004,Ms,F,Singaporean,Y,,14/11/1972,Diploma,"Diploma in Business Administration/
+International Business and Management Education Centre (IBMEC)",2015-10-08,"HR & Operations Manager, South East Asia",6th,2019-03-08,2019-09-07 00:00:00,Part-Time,Individual,107,Nets,5803,2.3
+2019/5112-006/005,Ms,F,Singaporean,Y,,12/03/1985,Degree,"Bachelor of Accountancy (Merit)/
+Singapore Management University",2015-08-08,Assistant Manager Americas,6th,2019-03-08,2019-09-07 00:00:00,Part-Time,Individual,107,Nets,5803,3.1
+2019/5112-006/006,Mr,M,Singaporean,Y,,22/06/1985,Diploma,"Diploma in Compensation & Benefits Management/
+SHRI Academy Pte Ltd",2015-10-08,HR Executive,6th,2019-03-08,2019-09-07 00:00:00,Part-Time,Individual,107,Nets,5803,2.7
+2019/5112-005/001,Mr,M,Singaporean,Y,,09/08/1977,Degree,"Bachelor of Arts with Honours Second Class:  Division II in International Business/
+Birmingham City University",2015-10-04,Helpdesk Manager,5th,2019-01-04,2019-07-03 00:00:00,Part-Time,Individual,107,Nets,5803,1.8
+2019/5112-005/002,Ms,F,Singaporean,Y,,01/06/1982,Degree,"Bachelor of Arts in Tourism Events/
+Murdoch University",2016-10-04,Business Manager,5th,2019-01-04,2019-07-03 00:00:00,Part-Time,Individual,107,Nets,5803,2.3
+2019/5112-005/003,Ms,F,Singaporean,Y,,12/10/1992,Degree,"Bachelor of Science in Business/
+University of London",2016-01-04,Talent Acquisition Specialist,5th,2019-01-04,2019-07-03 00:00:00,Part-Time,Individual,107,Nets,5803,2.5
+2020/5113-012/015,Ms,F,Singaporean,Y,,29/04/1974,Degree,"Bachelor of Commerce in Management and Marketing Management/
+Murdoch University",2017-02-28,Confidential Assistant,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
+2020/5113-012/016,Ms,F,Singaporean,Y,,19/10/1981,Degree,"Bachelor of Arts in Human Resource Management with Organisational Psychology/
+Edinburgh Napier University",2018-01-30,Journey Management Team Lead,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,2.6
+2020/5113-012/017,Ms,F,Singaporean,Y,,19/03/1989,Degree,"Bachelor of Arts (Sociology)/
+State University of New York at Buffalo",2017-05-30,Academy Program Coordinator,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,1.5
+2020/5113-012/018,Ms,F,"Chinese
+(China)",,Y,28/11/1998,Degree,"Bachelor of Arts with Honours (Distinction) in Global Studies/
+National University of Singapore",2019-11-30,Management Associate,12th,2020-10-30,2021-04-29 00:00:00,Part-Time,Individual,107,Nets,5803,4.0
+2020/5113-011/010,Mr,M,Singaporean,Y,,14/01/1991,Degree,"Bachelor of Science in Finance (Pass with Merit)/
+Singapore University of Social Sciences",2018-11-21,Audit Associate,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
+2020/5113-011/011,Mr,M,Singaporean,Y,,18/08/1978,Master,"Master in Business Administration with Merit/
+University of Bradford",2019-02-21,Lecturer,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,3.7
+2020/5113-011/012,Ms,F,Singaporean,Y,,05/12/1984,Diploma,"Specialist Diploma in Human Resource Management/
+Nanyang Polytechnic",2016-11-21,HR Executive,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,2.0
+2020/5113-011/013,Mr,M,Singaporean,Y,,04/06/1984,Master,"Master of Applied Science (Research)/
+Queensland University of Technology",2017-12-21,Consultant,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,2.6
+2020/5113-011/014,Ms,F,Singaporean,Y,,18/11/1991,Degree,"Bachelor of Business (Marketing)/
+RMIT University",2017-03-21,Regional Recruiter,11th,2020-08-21,2021-02-20 00:00:00,Part-Time,Individual,107,Nets,5803,3.0
+2020/5113-010/007,Mr,M,Singaporean,Y,,03/01/1977,"Postgraduate Diploma/
+Degree","Postgraduate Diploma in Education (Specialisation in teaching at Secondary School)/
+Nanyang Technological University +
+Bachelor of Arts (Multimedia Design)/
+Curtin University of Technology",2018-04-20,Teacher,10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2020/5113-010/008,Ms,F,Indian,,Y,27/07/1990,Master,"Master of Business Administration (First Class with Distinction)/
+Jawaharlal Nehru Technological University Anantapur",2018-04-20,Manager,10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Nets,5803,2.3
+2020/5113-010/009,Ms,F,Singaporean,Y,,07/11/1993,Degree,"Graduate Diploma in Systems Analysis/
+National University of Singapore",2017-07-20,IT Developer,10th,2020-03-20,2020-09-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.4
+2020/5113-009/001,Ms,F,Singaporean,Y,,01/09/1993,Degree,"Bachelor of Science with Second Class Honours (Upper Division) in Business/
+University of London",2019-02-10,Senior Human Resource Executive,9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,3.7
+2020/5113-009/002,Mr,M,Singaporean,Y,,02/01/1992,Degree,"Bachelor of Commerce (Management Human Resource Management)/
+Murdoch University",2018-04-10,"Senior Executive, Human Resource",9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,2.2
+2020/5113-009/003,Ms,F,Singaporean,Y,,17/01/1986,Degree,"Bachelor of Science (Education) with Second Class Honours (Lower Division)/
+National Technological University",2017-04-10,"Manager, Leadership & Coaching",9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2020/5113-009/004,Ms,F,Singaporean,Y,,21/10/1996,Degree,"Bachelor of Arts (Communication and Psychology)/
+State University of New York at Buffalo",2016-10-10,"Executive, HR",9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,2.1
+2020/5113-009/005,Mr,M,Singaporean,Y,,11/02/1981,Degree,"Bachelor of Arts in Human Resource Management with Financial Management/
+Edinburgh Napier University",2016-05-10,Manager,9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,2.4
+2020/5113-009/006,Mr,M,Singaporean,Y,,17/07/1979,Degree,"Bachelor of Science/
+National University of Singapore",2016-07-10,Assistant Vice-President,9th,2020-01-10,2020-07-09 00:00:00,Part-Time,Individual,107,Nets,5803,1.8
+2019/5113-008/007,Ms,F,Singaporean,Y,,06/11/1980,Master,"Degree of Master of English as a Second Language/
+University of Malaya",2016-11-20,HR Section Manager,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.0
+2019/5113-008/008,Ms,F,Singaporean,Y,,22/09/1990,Degree,"Bachelor of Commerce in Accounting/
+Murdoch University",2017-10-20,HR Assistant,8th,2019-09-20,2020-03-19 00:00:00,Part-Time,Individual,107,Nets,5803,3.4
+2019/5113-007/004,Mr,M,Singaporean,Y,,09/02/1985,Degree,"Bachelor of Science in Accounting and Finance with Third Class Honours/
+University of London",2016-04-05,Bank Executive,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2019/5113-007/005,Ms,F,Singaporean,Y,,01/10/1973,Degree,"Bachelor of Commerce (Accounting and Finance)/
+Curtin University of Technology",2017-11-05,"Head, Registry & Corp Admin",7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
+2019/5113-007/006,Ms,F,Indonesian (PR),Y,,30/09/1982,Degree,"Bachelor of Economics (Accounting)/
+Universitas Katolik Indonesia",2016-05-05,Finance Officer,7th,2019-07-05,2020-01-04 00:00:00,Part-Time,Individual,107,Nets,5803,2.0
+2019/5113-006/003,Ms,F,Singaporean,Y,,06/03/1990,Degree,"Bachelor of Science in Hotel Administration (Hospitality Management)/
+University of Nevada, Las Vegas",2015-06-08,HR Assistant,6th,2019-03-08,2019-09-07 00:00:00,Part-Time,Individual,107,Nets,5803,2.8
+2019/5113-005/001,Ms,F,Singaporean,Y,,14/11/1981,Degree,"Bachelor of Arts with Second Class Honours (Lower Division) in Business with Logistics and Supply Chain Management/
+University of Northumbria at Newscastle",2014-08-04,Household Goods Coordinator,5th,2019-01-04,2019-07-03 00:00:00,Part-Time,Individual,107,Nets,5803,1.9
+2019/5113-005/002,Ms,F,Singaporean,Y,,28/01/1983,Degree,"Bachelor of Business (Business Administration) with Distinction/
+Royal Melbourne Institute of Technology",2016-10-04,"Assistant Director, Human Resources",5th,2019-01-04,2019-07-03 00:00:00,Part-Time,Individual,107,Nets,5803,2.9
